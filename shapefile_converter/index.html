@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Shapefile loader</title>
+	<script type="text/javascript"
+		src="https://code.jquery.com/jquery-3.1.0.min.js"
+		integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="
+		crossorigin="anonymous">
+	</script>
+</head>
+<body>
+	<h1>A shapefile converter</h1>
+	<button type="button" id="geoJSONconvert">Click to convert shapefile to GeoJSON</button>
+	<h2 id="outGeoJSON">Converting .shp to .json</h2>
+	<button type="button" id="kmlconvert">Click to convert GeoJSON to kml</button>
+	<h2 id="outKML">Converting .json to kml</h2>
+
+	<script>
+
+	function convertShapeFile() {
+		console.log("converting shapefile to geoJSON");
+		$.get("/shapefile",
+			{
+			},
+			function (data)
+			{
+				$('#outGeoJSON').html(data); 
+			}
+		);
+	}
+
+		function convertGeoJSONFile() {
+		console.log("converting geoJSON to kml");
+		$.get("/geoJSONfile",
+			{
+			},
+			function (data)
+			{
+				$('#outKML').html("converting file to KML"); 
+			}
+		);
+	}
+
+	$(document).ready(function() {
+		$('#geoJSONconvert').click(convertShapeFile);
+		$('#kmlconvert').click(convertGeoJSONFile);
+	});
+	</script>
+
+</body>
+</html>

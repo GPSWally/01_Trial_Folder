@@ -1,0 +1,127 @@
+08/15/2005 00:00:00|"Certification statements"|"compilation"|"MO 11 QA Review"|"August 15, 2005
+
+SUBJECT: SOI  LaSalle County, Illinois, 10% Map Compilation QA Review
+		         						
+FILE CODE: 430-14-13-5
+TO:     Dale Calsyn, MLRA Project Leader USDA  NRCS 
+4255 Westbrook Drive, Suite 218
+Aurora, IL 60504
+Phone: 630-851-3254
+
+We have completed our quality assurance review of the automated map compilation for LaSalle County, Illinois.  
+
+1.	Materials are being returned. Some comments are marked on edit mylars in orange. 
+2.	This project was hand compiled with modifications done to the original mapping based on correlation decisions, etc.   
+3.	Hydro layer was not received for this project but care should be taken to make sure that the hydro image on the ortho matches the position of soil lines.
+4.	Noted errors should be fixed. 
+5.	NASIS should be edited to reflect the resulting spatial data.
+6.	Correlation document needs to be prepared to match NASIS and spatial data.
+7.	Metadata should reflect the process used.
+8.	When edit comments are dealt with, sign a compilation certificate and send it for us to sign. http://www.in.nrcs.usda.gov/mlra11/Soil_Business/word/Compilation_cert.doc
+
+Ransom SW; 376B - 679B, 372C2 - 199C2, 594A - 435A, 235A - 435A, 330++ - 295A, 10 soil line hydro image questions, 1 missed symbol, 1 missed line.
+Ransom NW; 41A0 - 375A, 149A1 - 375A
+Ransom SE; 295D2 - 223D2, 36C2 - 388C2
+Ransom NE; 223C2 - 91C2
+Earlsville SE; 3 missing symbols, 1 missing line
+Earlsville SW; 1 common line (more broad changes to this sheet)
+Earlsville NE; 41B - 51B, 41B - 715B
+Earlville NW; OK
+
+If there are any questions, please contact Mike Wigginton at (317) 290-3200, ext. 365.
+
+
+
+TRAVIS NEELY
+State Soil Scientist / MLRA R-11 Team Leader
+
+cc: 	Robert McLeese, State Soil Scientist, NRCS, Champaign, Illinois
+Jeff Deniger, Soil Scientist, Aurora, Illinois
+Asghar Chowdhery, SDQS, NRCS, Indianapolis, Indiana
+	Mike Wigginton, SDQS, NRCS, Indianapolis, Indiana 
+MLW/lc"|"11359"|"50356"
+09/01/1999 00:00:00|"Miscellaneous notes"|"ARSS"|"MWB"||"11359"|"50357"
+01/20/1999 00:00:00|"Miscellaneous notes"|"initials"|"FOTG Heading"|"XXX 00/00/99"|"11359"|"50358"
+08/15/2005 00:00:00|"Certification statements"|"digitizing"|"MO 11 QA Review"|"July 26, 2006
+
+SUBJECT: SOI  LaSalle County, Illinois, 10% SSURGO digitizing QA Review
+
+FILE CODE: 430-14-13-5
+TO:     Michael Hansen 						     
+Federal Building Room 214
+10 East Babcock
+Bozeman, Montana 59715-4704
+406-587-6994
+
+We have completed our ten percent digitizing quality assurance review for LaSalle County, Illinois.  We reviewed the Leonore SE, Streater South NW, Wenona SE, Somonauk SW, Mendota East NW, Earlville SW, Wedron NE, Ladd SE, Marseilles NW, SE and Seneca SW quads.  Problem areas are marked with orange pencil.
+ 
+1.	There were no labels indicating quad names on the check plots. 
+2.	No correlation document was received with the materials.  We found one in our office.
+3.	BPI special feature spot symbol was found on Seneca SW quad but is not included in the correlation document.  Be sure to check the correlation document to make sure all special feature symbols and map units correspond and corrections made as needed.
+4.	We assume that common line corrections were cleared through the Illinois soil scientists who prepared the maps.  We have a LaSalle County published report but understand that is not the source material for this update.  We did not have the source material so could not check the digital data against the source for the areas we questioned.  We marked a few that we had questions about.  
+5.	As indicated in the compilation QA review, many changes made in the update process are not specifically documented, as is indicated in the correlation document.   
+
+Please review our comments.  We are enclosing a signed certification.  Please sign it and send it on to Illinois for their signature.  Please return a copy for our files.  If there are any questions, please contact Mike Wigginton at (317) 290-3200, ext. 365.
+
+
+
+TRAVIS NEELY
+State Soil Scientist/MLRA R-11 Team Leader, Indianapolis, Indiana
+
+cc: 	Robert McLeese, State Soil Scientist, NRCS, Champaign, Illinois
+	Dale Calsyn, MLRA Project Leader, NRCS, Aurora, Illinois
+	Asghar Chowdhery, SDQS, NRCS, Indianapolis, Indiana
+	Mike Wigginton, SDQS, NRCS, Indianapolis, Indiana
+	Rebecca Carter, Cartographic Technician, NRCS, Bozeman, Montana
+MLW/lc
+ 
+Soil Survey Geographic Database Certification
+LaSalle County, Illinois IL099
+Spatial Data
+
+1.  Digitizing meets NRCS standards and specifications as described in Part 647.10, (NSSH).
+
+2. Quality control included a 100 percent review.
+
+3. Quality assurance included a 10 percent technical review by the Major Land Resource Area office.
+
+4.  Where a soil boundary line intersects a quadrangle boundary, the line matches the line in the adjoining quadrangle within a 0.01 inch (0.254mm) measured centerline to centerline.
+
+5. Digital data sets are in or have been formatted into seamless full county coverage.
+
+6.  Map data is being sent to the Soil Data Warehouse for archiving.
+
+Metadata
+
+Metadata template has been completed and is being sent to the Soil Data Warehouse for archiving.
+
+I certify that the digital spatial data are correct.
+
+
+__________________________				______________________
+Montana Digitizing Center					Date
+
+
+I certify that the data have passed a 10 percent MLRA Office review.
+
+
+________________________				______________________
+MLRA Office Leader						Date
+
+I certify that the data meets all of the above certification specifications and are ready for archiving and distribution by the Soil Data Warehouse. 
+
+
+_______________________				______________________
+Illinois State Conservationist					Date"|"11359"|"50359"
+10/06/2011 00:00:00|"Miscellaneous notes"|"legend"||"Legend reassigned from NASIS Group 11-04 Aurora MLRA PO to MO11 Illinois Legends."|"11359"|"50360"
+07/01/2014 00:00:00|"Edit notes"|||"Legend mapunit acres and legend area overlap tables updated based on current SSURGO data and adjusted to agree with NRI total acreage. Data provided by 11-SPR MLRA SSO."|"11359"|"50361"
+08/02/1999 00:00:00|"Miscellaneous notes"|"ARSS"|"SEZP"||"11376"|"50368"
+10/06/2011 00:00:00|"Miscellaneous notes"|"legend"||"Legend reassigned from NASIS Group 11-2 Springfield, Illinois to MO11 Illinois Legends."|"11376"|"50369"
+01/05/2012 00:00:00|"Edit notes"|"acres"||"Edited acres as follows:
+25G deducted 17 acres added to 883G, which was added to legend 9-2012.
+383B deducted 23 acres added to 675B, which was added to legend 9-2012.
+484A deducted 140 acres added to 715A, which was added to legend 9-2012.
+3480L deducted 713 acres added to 1480L, which was added to legend 9-2012.
+RT 10-5-12
+"|"11376"|"50370"
+05/29/2014 00:00:00|"Edit notes"|||"Legend mapunit acres and legend area overlap tables updated based on current SSURGO data and adjusted to agree with NRI total acreage. Data provided by 11-SPR MLRA SSO."|"11376"|"50371"

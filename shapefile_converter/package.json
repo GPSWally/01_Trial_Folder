@@ -1,0 +1,18 @@
+{
+  "name": "shapfile_converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server_bareBones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "shpjs": "^3.3.2",
+    "then-fs": "^2.0.0",
+    "tokml": "^0.4.0"
+  }
+}

@@ -1,0 +1,5 @@
+"County or Parish"|"IL123"|"Marshall"|254880|"11376"|"296917"
+"MLRA"|"108A"|"Illinois and Iowa Deep Loess and Drift, Eastern Part"|168098|"11376"|"296918"
+"MLRA"|"115C"|"Central Mississippi Valley Wooded Slopes, Northern Part"|86782|"11376"|"296919"
+"Rainfall Factor Area (USLE)"|"180"|"Rainfall Factor"|254880|"11376"|"296920"
+"State or Territory"|"IL"|"Illinois"|254880|"11376"|"296921"

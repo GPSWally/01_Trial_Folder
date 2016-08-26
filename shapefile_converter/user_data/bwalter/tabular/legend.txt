@@ -1,0 +1,2 @@
+"Non-MLRA Soil Survey Area"|"IL099"|"La Salle County, Illinois"|735640|"Indianapolis, IN"|"Detailed Soil Map Legend"||"Natural Resources Conservation Service"|12000|||||"11359"
+"Non-MLRA Soil Survey Area"|"IL123"|"Marshall County, Illinois"|254880|"Indianapolis, IN"|"Detailed Soil Map Legend"||"Natural Resources Conservation Service"|15840|||||"11376"
