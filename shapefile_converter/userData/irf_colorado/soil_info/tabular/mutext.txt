@@ -1,0 +1,518 @@
+02/17/2009 00:00:00|"Edit notes"|"minor hydric compone"||"The minor hydric component was removed from the data mapunit to coincide with the original soil survey publication.  Minor hydric components were added into the data mapunits based upon aerial photography and where not verified on the ground in an update process.  Component percentages were adjusted accordingly."|"95051"|"760309"
+06/06/2014 00:00:00|"Miscellaneous notes"|"evaluation"||"The following is a summary of the evaluation of the Haxtun sandy loam and Haxtun sandy loam, 0 to 3 percent slopes mapunits that are currently mapped in 5 counties in Colorado. The mapunit extent is 58% in MLRA 72 and 42% in MLRA 67B. The following lists the mapunits by county, mapunit symbol, national mapunit symbol, datamapunit id, and acres.
+
+Haxtun sandy loam
+County							MUSYM	NMUSYM		DMUID		Acres
+Logan County, CO (CO075)		38		35c0		67298		14,470
+Washington County, CO (CO121)	28		35v4		67797		27,599
+Yuma County, CO (CO125)			19		35xh		67869		69,451
+
+Haxtun sandy loam, 0 to 3 percent slopes
+County							MUSYM	NMUSYM		DMUID		Acres
+Phillips County, CO (CO095)		HxB		35mb		67579		17,520
+Sedgwick County, CO (CO115)		HxB		35sn		67744		2,084
+
+Future Maintenance Needs:
+Future maintenance should determine the exact nature of the Haxtun buried horizon and if the Haxtun OSD should have the requirement of a buried horizon.
+
+Maintenance needs to also determine the surface textures of the Haxtun sandy loam and Haxtun loamy sand mapunits where they adjoin each other and define the minor component composition of this mapunit because the manuscripts and datamapunits do not agree.
+
+Maintenance should determine the geomorphic descriptions of the Haxtun and Ascalon components because the manuscripts and datamapunits do not define their positions on the landscape.
+
+Maintenance should also determine if the Loup soil series is the correct soil for the swale positions because it was added without field investigation to this mapunit during the SDJR process to represent the Depression, Pot Hole, and Wet Spot spot symbols, which we are assuming were represented by the Rago component in Logan and Phillips counties.
+
+Maintenance should also reconcile the many spatial and tabular join mismatches (see the County Line Joins section below for details).
+
+Manuscript Comparison:
+The concepts in the original soil survey manuscripts are similar, but the geomorphology descriptions, land capability classifications, mapunit inclusions, and parent material are different. 
+
+Geomorphology Descriptions
+The geomorphology descriptions in the manuscripts are listed below by county symbol. The new MLRA mapunit geomorphology description will be rises on tablelands.
+
+Logan (CO075)		upland valleys and flats
+Phillips (CO095)	uplands
+Sedgwick (CO115)	uplands, but some small areas are on terraces of the South Platte River 
+Washington (CO121)	slightly depressed areas on smooth plains
+Yuma (CO125)		swale and sand hill valleys. 
+
+Land Capability Class 
+The land capability classes (LCC) in the manuscripts are listed below by county symbol, non-irrigated LCC, and irrigated LCC. The new MLRA mapunit LCC will be 2e for non-irrigated and irrigated land.
+
+Logan (CO075)		2e/2e
+Phillips (CO095)	2e/2e
+Sedgwick (CO115)	3e/not classified
+Washington (CO121)	2e/2e
+Yuma (CO125)		2e/2e
+
+Minor Components
+The minor components in the manuscripts are listed below by county symbol. The new MLRA mapunit minor components will be Ascalon (10%).
+
+Logan (CO075)		Ascalon, Rago, and Haxtun ls
+Phillips (CO095)	Rago and Kuma
+Sedgwick (CO115)	None mentioned
+Washington (CO121)	Ascalon (10%)
+Yuma (CO125)		Ascalon (10%)
+
+Parent Material
+The parent material descriptions in the manuscripts are listed below by county. The new MLRA mapunit parent material will be eolian deposits.
+
+Logan (CO075) 		Eolian sandy loam deposits overlying an older buried loamy soil that formed in mixed calcareous loamy alluvial and eolian deposits
+Phillips (CO095)	Loamy sand or sandy loams
+Sedgwick (CO115)	Mixture of silty and sandy eolian materials over sand and gravel
+Washington (CO121)	Eolian sand
+Yuma (CO125)		Mixed eolian and alluvium material overlying an older buried soil
+
+Original Manuscript and Correlated Datamapunit Comparison:
+The differences between the manuscripts and the datamapunits are the geomorphic descriptions, the land capability class (LCC), minor component composition. 
+
+Geomorphic Descriptions
+The Phillips County (CO095) manuscript had an upland geomorphic description. The supporting datamapunit for supporting datamapunit has a ridges geomorphic description.
+
+Land Capability Class
+The manuscripts for Logan (CO075) and Phillips (CO095) Counties had 2e LCC for both the non-irrigated and irrigated land, but their supporting datamapunits have a 3c for non-irrigated and a 2e for irrigated land. The Sedgwick County (CO115) manuscript had a 3e LCC for non-irrigated land and did not have a value for the irrigated land, but the supporting datamapunit has a 2e LCC for non-irrigated and irrigated land. The manuscripts for Washington (CO121) and Yuma (CO125) Counties had a 2e LCC for both non-irrigated and irrigated land, but their supporting datamapunit have a 3e LCC for non-irrigated and irrigated land.
+
+Minor Components
+The Logan County (CO075) manuscript minor components were Ascalon sandy loam, Rago loam, and Haxtun loamy sand, but the supporting datamapunit has Ascalon (10%) and Rago (10%). There were no minor components listed in the Sedgwick County manuscript, but the supporting datamapunit has Julesburg (7%), Ascalon (7%), and Rock Outcrop (1%).
+
+
+Major Component Differences:
+The Haxtun components interpretative ratings for the 8 datamapunits being replaced were compared. There were 8 soil properties that create interpretative rating differences for 28 interpretations. These properties are Cation Exchange Capacity (CEC), Clay Content, Gravel Content, Linear Extensibility Percent (LEP), Organic Matter (OM), Sand Content, Saturated Hydraulic Conductivity (Ksat), and Unified Class. 
+
+Cation Exchange Capacity (CEC)
+ENG - Construction Materials; Topsoil
+The limitation for this interpretation is the exchange capacity and is driven by the CEC capacity (0-100cm), which is the sum of (horz. CEC/100) * (1/3bar Db)*(layer thickness).  This value for the CO121 and CO125 Haxtun component is between 20.8-22.6 (Good) and for the CO075, CO095, and CO115 Haxtun component it is between 16.8-19 (Fair). The CEC values are prior populations of unknown origin and the new MLRA component CEC values will be derived from the national calculation.
+
+Clay Content
+GRL - Fencing, Post Depth =<24 inches
+The limitation for this interpretation is 18 to 45% clay and is driven by the highest representative clay content (0-60cm). This value for the CO115 Haxtun component is 18% (Not Limited), and for the CO075, CO095, CO121, and CO125 it is between 27.5-30.5% (Limited).
+
+Gravel Content
+DHS - Suitability for Composting Medium and Final Cover
+The limitation for this interpretation is % passing the # 10 sieve and is driven by the weighted average gravel content (2-76mm) (0-100cm). This value for the CO075, CO115, CO121, and CO125 is between 0-2% (Good) and for the CO095 Haxtun component it is between 9.44% (Fair).
+
+Linear Extensibility Percent (LEP)
+ENG - Construction Materials; Roadfill
+ENG - Dwellings With Basements
+The limitation for these interpretations is shrink-swell and is driven by the wtd-avg Linear Extensibility Percent (LEP) (25-150cm). This value for the CO075, CO095, CO115, and CO125 Haxtun component is between 1.5-2.3% (Good) and for the CO121 Haxtun component it is 3.9% (Fair). The LEP values are prior populations of unknown origin and the new MLRA component LEP values will be derived from the national calculation.
+
+ENG - Dwellings W/O Basements
+ENG - Small Commercial Buildings
+The limitation for these interpretations is shrink-swell and is driven by the wtd-avg Linear Extensibility Percent (LEP) (25-100cm). This value for the CO075, CO095, CO115, and CO125 Haxtun component is between 1.5-2.8% (Good) and for the CO121 Haxtun component it is 3.46 (Fair). The LEP values are prior populations of unknown origin and the new MLRA component LEP values will be derived from the national calculation.
+
+Organic Matter (OM)
+AGR - Pesticide Loss Potential-Leaching
+The limitation for this interpretation is low adsorption and is driven by the surface layer Organic Matter (OM) content, which affects the Soil Leaching Loss Rating (SLLR). The SLLR is the (Surface Layer Depth) * (Organic Matter Content). The OM content for the CO075, CO095, and CO115 Haxtun component is 3% (Not Limited) and for the CO121 and CO125 it is 2.5% (Somewhat Limited). The surface OM for the new MLRA component will be 3%.
+
+ENG - Construction Materials; Reclamation
+The limitation for this interpretation is low content of organic matter and is driven by the thickest layer organic matter content (0-180cm). This value for the CO075, CO095, CO115, and CO125 Haxtun component is between 0.25-0.75% (Fair), and for the CO121 Haxtun component it is 1.25% (Good).
+
+Sand Content
+ENG - Construction Materials; Sand Source
+The limitation for this interpretation is the thickest layer and is driven by the total sand content of the thickest layer. This value for the CO075, CO095, CO115, and CO125 Haxtun components is between 53-63% (Fair), and for the CO121 Haxtun component it is 44% (Poor).
+
+Saturated Hydraulic Conductivity (Ksat)
+AWM - Irrigation Disposal of Wastewater
+AWM - Land Application of Municipal Sewage Sludge
+AWM - Manure and Food Processing Waste
+AWM - Slow Rate Process Treatment of Wastewater
+The limitation for these interpretations is slow water movement and is driven by the minimum Saturated Hydraulic Conductivity (Ksat) (0-150cm). This value for the CO075, CO115, CO121, and CO125 Haxtun components is 3 um/s (Somewhat Limited) and for the CO095 Haxtun component it is 9 um/s (Not Limited). The Ksat values for the new MLRA component will be populated following the MLRA 72 Ksat scheme based on the RV texture class.
+
+DHS - Catastrophic Mortality, Large Animal Disposal, Pit
+DHS - Catastrophic Mortality, Large Animal Disposal, Trench
+The limitation for these interpretations is seepage and is driven by the representative Saturated Hydraulic Conductivity (Ksat) (Bottom Layer). This value for the CO075, CO095, and CO115 Haxtun component is between 23-28 um/s (Somewhat Limited), for the CO125 Haxtun Component it is 73 um/s (Very Limited), and for the CO121 Haxtun component it is 3 um/s (Not Limited). The Ksat values for the new MLRA component will be populated following the MLRA 72 Ksat scheme based on the RV texture class.
+
+DHS - Rubble and Debris Disposal, Large-Scale Event
+DHS - Site for Composting Facility  Subsurface
+ENG - Sanitary Landfill (Trench)
+The limitation for these interpretations is seepage and is driven by the representative Saturated Hydraulic Conductivity (Ksat) (Bottom Layer). This value for the CO075, CO095, CO115, and CO125 Haxtun component is between 23-73 um/s (Limited) and for the CO121 Haxtun component it is 3 um/s (Not Limited). The Ksat values for the new MLRA component will be populated following the MLRA 72 Ksat scheme based on the RV texture class.
+
+ENG - Daily Cover for Landfill
+The limitation for this interpretation is seepage and is driven by the representative Saturated Hydraulic Conductivity (Ksat), thickest Layer (25-150cm). This value for the CO075 and CO121 Haxtun component it is between 3-9 um/s (Not Limited), for the CO095 and CO115 Haxtun component is 23 um/s (Somewhat Limited), and for the CO125 Haxtun component it is 73 um/s (Limited). The Ksat values for the new MLRA component will be populated following the MLRA 72 Ksat scheme based on the RV texture class.
+
+WMS - Irrigation, General
+WMS - Irrigation, Surface (graded)
+WMS - Irrigation, Surface (level)
+The limitation for these interpretations is rapid water movement and is driven by the minimum representative Saturated Hydraulic Conductivity (Ksat) (0-50cm). This value for the CO075, CO115, CO121, and CO125 Haxtun component is between 22-28 um/s (Very Limited), and for the CO095 Haxtun component it is 9 um/s (Somewhat Limited). The Ksat values for the new MLRA component will be populated following the MLRA 72 Ksat scheme based on the RV texture class.
+
+WMS - Irrigation, Micro (above ground)
+WMS - Irrigation, Micro (subsurface drip)
+The limitation for these interpretations is seepage and is driven by the maximum representative Saturated Hydraulic Conductivity (Ksat) (0-100cm). This value for the CO075, CO095, CO115, and CO121 Haxtun component is 28 um/s (Somewhat Limited), and for the CO125 Haxtun component it is 73 um/s (Very Limited). The Ksat values for the new MLRA component will be populated following the MLRA 72 Ksat scheme based on the RV texture class.
+
+Unified Class
+DHS - Site for Composting Facility  Surface
+WMS - Embankments, Dikes, and Levees
+The limitation for this interpretation is piping and is driven by the Unified Dominant Condition (25-200cm). Dominant condition is the Unified Class with the greatest thickness within the 25-200cm zone. This value for the CO075 and CO121 Haxtun component is cl (Somewhat Limited) and for the CO095, CO115, and CO125 Haxtun component it is cl-ml (Very Limited). These are prior populations of unknown origin and the new MLRA components Unified classes will be derived from the national calculation.
+
+County Line Joins:
+Haxtun sandy loam
+There are two joins that need mapunit reconciliation and one join that needs line work and mapunit symbol reconciliation completed between Logan County, Colorado (CO075) and Morgan County, Colorado (CO087). They are listed by legal description below the mapunit name. The join description shows the CO075 legal description followed by the CO087 legal description.
+
+Ascalon sandy loam, 1 to 3 percent slopes (AuB)
+32-7n-55w to 5-6n-55w (2 joins) (mapunit symbol)
+
+Haxtun loamy sand, 0 to 3 percent slopes (HkB)
+33-7n-55w to 4-6n-55w
+
+There are six joins that need mapunit reconciliation completed between Logan County, Colorado (CO075) and Washington County, Colorado (CO121). They are listed by legal description below the mapunit name. The join description shows the CO075 legal description followed by the CO121 legal description.
+
+Haxtun sandy loam (28)
+32-6n-54w to 5-5n-54w (3 joins) 
+32-6n-52w to 5-5-52w 
+34-6n-52w to 3-5n-52w 
+35-6n-52w to 2-5n-52w 
+
+There is one join that needs mapunit reconciliation completed between Logan County, Colorado (CO075) and Phillips County, Colorado (CO095). They are listed by legal description below the mapunit name. The join description shows the CO075 legal description followed by the CO095 legal description.
+
+Haxtun sandy loam, 0 to 3 percent slopes (HxB)
+25-8n-48w to 30-8n-47w
+
+There are twelve joins that need mapunit reconciliation completed between Washington County, Colorado (CO121) and Yuma County, Colorado (CO125). They are listed by legal description below the mapunit name. The join description shows the CO121 legal description followed by the CO125 legal description.
+
+Haxtun sandy loam (19)
+25-4n-49w to 30-4n-48w (2 joins)
+1-2n-49w to 6-2n-48w 
+12-2n-49w to 7-2n-48w 
+1-1n-49w to 6-1n-48w (3 joins) 
+13-1n-49w to 18-1n-48w 
+36-4s-49w to 31-4s-48w 
+1-5s-49w to 6-5s-48w 
+12-5s-49w to 7-5s-48w (2 joins)
+
+There are four joins that need line work and mapunit symbol reconciliation completed between Washington County, Colorado (CO121) and Kit Carson County, Colorado (CO063). They are listed by legal description below the mapunit name. The join description shows the CO121 legal description followed by the CO063 legal description.
+
+Sampson loam, 0 to 2 percent slopes, rarely flooded (75)
+31-5s-51w to 6-6s-51w MU & SP
+
+Platner loam, 0 to 3 percent slopes (68)
+31-5s-51w to 6-6s-51w MU & SP
+
+Ascalon-Haxtun sandy loams, 0 to 3 percent slopes (9)
+31-5s-49w to 31-5 1/2s-49w 
+
+Kimst-Wages sandy clay loams, 1 to 6 percent slopes (40)
+31-5s-49w to 31-5 1/2s-49w
+
+There are eight joins that need line work and mapunit symbol reconciliation completed between Yuma County, Colorado (CO125) and Phillips County, Colorado (CO095). They are listed by legal description below the mapunit name. The join description shows the CO125 legal description followed by the CO095 legal description.
+
+Haxtun sandy loam, 0 to 3 percent slopes (HxB)
+3-5n-46w to 34-6n-46w (2 joins) 
+2-5n-46w to 35-6n-46w 
+3-5n-45w to 34-6n-45w 
+3-5n-44w to 34-6s-44w
+
+Haxtun loamy sand, 0 to 3 percent slopes (HtB)
+3-5n-45w to 34-6n-45w
+3-5n-44w to 34-6s-44w
+
+Rago and Kuma loams (Ra)
+1-5n-46w to 36-6n-46w 
+
+There are two joins that need mapunit symbol reconciliation and twelve joins that need line work and mapunit symbol reconciliation completed between Yuma County, Colorado (CO125) and Kit Carson County, Colorado (CO063). They are listed by legal description below the mapunit name. The join description shows the CO125 legal description followed by the CO063 legal description.
+
+Ascalon-Haxtun sandy loams, 0 to 3 percent slopes (9)
+34-5s-48w to 34-5 1/2s-48w (mapunit symbol)
+35-5s-47w to 35-5 1/2s-47w 
+36-5s-47w to 6-5 1/2s-46w 
+32-5s-46w to 33-5 1/2s-46w 
+33-5s-46w to 34-5 1/2s-46w (mapunit symbol)
+34-5s-46w to 34-5 1/2s-46w (2 joins) 
+32-5s-43w to 32-5 1/2s-43w
+32-5s-43w to 33-5 1/2s-43w
+
+Valent sand, 1 to 9 percent slopes
+35-5s-47w to 35-5 1/2s-47w 
+36-5s-47w to 6-5 1/2s-46w 
+
+Ascalon sandy loam, 3 to 5 percent slopes (3)
+32-5s-46w to 33-5 1/2s-46w 
+34-5s-46w to 34-5 1/2s-46w 
+
+Julesburg loamy sand, 3 to 7 percent slopes (23)
+32-5s-46w to 33-5 1/2s-46w 
+
+Haxtun sandy loam, 0 to 3 percent slopes
+There are three joins that need line work and mapunit symbol reconciliation completed between Sedgwick County, Colorado (CO115) and Logan County, Colorado (CO075). They are listed by legal description below the mapunit name. The join description shows the CO115 legal description followed by the CO075 legal description.
+
+Haxtun loamy sand, 0 to 3 percent slopes (36)
+7-9n-47w to 12-9n-48w both
+18-9n-47w to 13-9n-48w both
+
+Haxtun loamy sand, 3 to 5 percent slopes (37)
+18-9n-47w to 13-9n-48w both
+
+There are five joins that need mapunit symbol reconciliation completed between Phillips County, Colorado (CO095) and Sedgwick County, Colorado (CO115). They are listed by legal description below the mapunit name. The join description shows the CO095 legal description followed by the CO115 legal description.
+
+Haxtun sandy loam, 0 to 3 percent slopes (HxB)
+22-9n-47w to 15-9n-47w 
+24-9n-47w to 13-9n-47w 
+20-9n-45w to 17-9n-45w 
+21-9n-43w to 16-9n-43w 
+
+Haxtun loamy sand, 3 to 5 percent slopes (HtC)
+24-9n-47w to 13-9n-47w 
+
+There are eleven joins that need line work and mapunit symbol reconciliation completed between Phillips County, Colorado (CO095) and Yuma County, Colorado (CO125). They are listed by legal description below the mapunit name. The join description shows the CO095 legal description followed by the CO125 legal description.
+
+Haxtun sandy loam (19)
+34-6n-46w to 3-5n-46w (3 joins) 
+35-6n-46w to 2-5n-46w 
+34-6n-45w to 3-5n-45w 
+34-6n-44w to 3-5n-44w
+
+Ascalon fine sandy loam, 0 to 3 percent slopes (5)
+34-6n-46w to 3-5n-46w (2 joins) 
+35-6n-46w to 2-5n-46w 
+34-6n-45w to 3-5n-45w 
+
+Julesburg loamy sand, 0 to 3 percent slopes (22)
+34-6n-44w to 3-5n-44w
+
+
+
+"|"95061"|"760336"
+06/06/2014 00:00:00|"Map unit description"|"map unit concept"||"The Haxtun sandy loam, 0 to 3 percent slopes soils are very deep, well drained, and formed in eolian deposits on sand sheets on tablelands. The component composition is 90% Haxtun, 7% Ascalon, and 3% Loup soils. The Farm Class is Farmland of statewide importance (30). The interpretative focus is cropland and it is order 2 mapping. A text note in the Datamapunit Text Table will address the 125 Severely Eroded Spot (0.3%), 94 (0.2%) Gumbo, slick or scabby spot , 44 Gravelly Spot (0.1%), 32 Sandy Spot (0.07%), 27 Pothole (0.06%), 24 Rock Outcrop (0.05%), 9 Wet Spot (0.02%), 4 Saline Spot (0.009%), and 2 Gravel pit (0.005%) spot symbols. The 1230 Depression symbols (3%) will be represented by the Loup soil and will also be discussed in the text note. 
+
+Haxtun Component:
+The Haxtun soils represent well drained, very deep, soils that formed in eolian deposits over alluvium. The Haxtun component is found on summits and backslopes of crests and side slopes on sand sheets on tablelands, with a linear/linear slope shape. The component T-factor is 5 tons/acre, the WEI is 86 tons/ac/yr, and the WEG is 3. The LCC is 3c for Non-irrigated land and 2e for Irrigated land. The Ecological Site Description (ESD) for the Haxtun component is Sandy (North) Draft (April 2010) (PE 16-20) (R072XA022KS). The Haxtun component classifies as Fine-loamy, mixed, superactive, mesic Pachic Argiustolls. 
+
+The Ap horizon has a representative thickness of 22cm that ranges from 18 to 31cm, a representative sandy loam texture, and a weak fine granular structure. The representative clay content is 13% that ranges from 7% to 18% and the representative total sand content is 68% that ranges from 55% to 75%. The colors are 10YR 5/2 dry and 10YR 3/2 moist, with the representative organic matter content of 2.8% that ranges from 1.1 to 4%. The Kw and Kf factor is 0.15.
+
+The Bt1 horizon has a representative bottom depth of 52cm that ranges from 35 to 67cm, a representative sandy loam texture that can be sandy clay loam, and a weak medium prismatic parting to weak medium subangular blocky structure. The representative clay content is 19% that ranges from 15 to 28%, the representative total sand content is 63% that ranges from 55 to 70%, and the very fine sand content ranges from 9 to 14%. The colors are 10YR 4/2 dry and 10YR 3/2 moist, with the representative organic matter content of 1.8% that ranges from 1.1 to 3%. The Kw and Kf factor is 0.24.
+
+The 2Bt2 horizon has a representative bottom depth of 88cm that ranges from 70 to 105cm, a representative clay loam texture that can be sandy clay loam, loam, or very fine sandy loam, and a moderate medium prismatic parting to moderate medium subangular blocky structure. The representative clay content is 28% that ranges from 18% to 34%, the representative total sand content is 39% that ranges from 33 to 55%, and the very fine sand content ranges from 10 to 25. The 2Bt2 horizon has a fine gravel content that ranges from 0 to 3% and a medium and coarse gravel content that ranges from 0 to 4%. The colors are 10YR 4/2 dry and 10YR 3/2 moist, with the representative organic matter content of 1.25% that ranges from 1.1% to 2%. The 2Bt2 horizon has calcium carbonate content ranging from 0 to 10% with a representative value of 4%. The Kw and Kf factor is 0.32.
+
+The 2C horizon has a representative thickness of 112cm that ranges from 95 to 130cm, a representative loam texture that can be sandy loam, or very fine sandy loam, and a structureless massive structure. The representative clay content is 19% that ranges from 13% to 25% and the representative total sand content is 50% that ranges from 40 to 66%. The 2C horizon has a fine gravel content that ranges from 0 to 4% and a medium and coarse gravel content that ranges from 0 to 6%.The colors are 10YR 8/2 dry and 10YR 6/2 moist, with the representative organic matter content of 0.25% that ranges from 0 to 0.75%. The 2C horizon has calcium carbonate content ranging from 5 to 14% with a representative value of 9%. Some areas have a zone of stratified coarse sand and gravels below 120cm. The Kw and Kf factor is 0.32.
+
+The Haxtun component has a mollic epipedon with a representative thickness of 88cm that ranges in thickness from 70 to 105cm and the organic matter content ranges from 1.1 to 4%. The argillic horizon thickness ranges from 39 to 87cm. Depth to free carbonates ranges from 35 to 67cm. The component is in the Fine-loamy textural family with a weighted average of carbonate free clay content ranging from 18 to 31%, a fine sand and coarser content ranging from 38 to 54%, and 0 to 4% rock fragments.
+
+Minor Components
+The Ascalon component is found on footslopes of base slopes of sand sheets on tablelands, with a concave up/linear across slope shape. It will be copied from DMUID 659245, which is supports the SDJR version of Haxtun loamy sand, 0 to 3 percent slopes (2s7wd) in MLRA 72.
+
+The Loup component is found on toeslopes of base slopes on swales on tablelands, with a concave up/linear across slope shape. It will be copied from DMUID 657816, which supports the SDJR version of Els-Ipage complex, 0 to 3 percent slopes (2s81h) in MLRA 65.
+"|"95061"|"760337"
+06/23/2014 00:00:00|"Miscellaneous notes"|"interpretations"||"The interpretative ratings for the Haxtun component of the datamapunits listed below were compared to those of the new MLRA component for Haxtun sandy loam, 0 to 3 percent slopes (2s7wf).
+
+Haxtun sandy loam
+County							MUSYM	NMUSYM		DMUID		Acres
+Logan County, CO (CO075)		38		35c0		67298		14,470
+Washington County, CO (CO121)	28		35v4		67797		27,599
+Yuma County, CO (CO125)			19		35xh		67869		69,451
+
+Haxtun sandy loam, 0 to 3 percent slopes
+County							MUSYM	NMUSYM		DMUID		Acres
+Phillips County, CO (CO095)		HxB		35mb		67579		17,520
+Sedgwick County, CO (CO115)		HxB		35sn		67744		 2,084
+
+The Haxtun component has 11 soil properties that create interpretative rating differences for 29 interpretations. These soil properties are AASHTO Group Index (AGI), Cation Exchange Capacity (CEC), Clay Content, Gravel Content, Linear Extensibility Percent (LEP), Organic Matter (OM), Sand Content, Saturated Hydraulic Conductivity (Ksat), Slope Length USLE, Soil Leaching Loss Rating (SLLR), and Unified Class.
+
+AASHTO Group Index (AGI)
+DHS - Site for Composting Facility  Surface
+ENG - Local Roads and Streets
+The limitation for these interpretations is low strength and is driven by the ASSHTO Group Index (AGI) (thickest layer, 25-100cm). This value for the CO075, CO095, CO115, CO121, and CO125 is between 0-5 (Not Limited). This value for the new MLRA component is 9 (Very Limited). These values were all derived from the national calculation.
+
+Cation Exchange Capacity (CEC)
+ENG - Construction Materials; Topsoil
+The limitation for this interpretation is exchange capacity and is driven by the CEC capacity (0-100cm), which is the sum of (horz. CEC/100) * (1/3bar Db)*(layer thickness).  This value for the CO075, CO095, and CO115 Haxtun component is between 16.8-19 (Fair) and for the CO121 and CO125 Haxtun component it is between 20.8-22.6 (Good). The CEC values are prior populations of unknown origin. This value for the new MLRA component is 22.4 (Good) and was derived from the national calculation.
+
+Clay Content
+GRL - Fencing, Post Depth =<24 inches
+The limitation for this interpretation is 18 to 45% clay and is driven by the highest representative clay content (0-60cm). This value for the CO115 Haxtun component is 18% (Not Limited), and for the CO075, CO095, CO121, and CO125 it is between 27.5-30.5% (Limited). This value for the new MLRA component is 28% (Limited).
+
+Gravel Content 
+DHS - Suitability for Composting Medium and Final Cover
+The limitation for this interpretation is % passing the # 10 sieve is causing the limitation and is driven by the weighted average gravel content (2-76mm) (0-100cm). This value for the CO075, CO115, CO121, and CO125 it is 0% (Good) and for the CO095 Haxtun component it is between 9.44% (Fair).  For the new MLRA component it is 1.14% (Good).
+
+Linear Extensibility Percent (LEP) 
+ENG - Construction Materials; Roadfill
+The limitation for this interpretation is shrink-swell and is driven by the weight average Linear Extensibility Percent (LEP) 25-150cm. This value for the CO075, CO095, CO115, and CO125 is between 1.5-2.3% (Not Limited), and for the CO121 Haxtun component it is 3.9% (Somewhat Limited). These values are prior populations of unknown origin. This value for the new MLRA component is 2.1% (Not Limited) and was derived using the national calculation.
+
+ENG - Dwellings W/O Basements
+ENG - Small Commercial Buildings
+The limitation for these interpretations is shrink-swell is causing the limitation and is driven by the weight average Linear Extensibility Percent (LEP) 25-100cm. This value for the CO075, CO095, CO115, and CO125 is between 1.5-2.8% (Not Limited), and for the CO121 Haxtun component it is 3.5% (Somewhat Limited). These values are prior populations of unknown origin. This value for the new MLRA component is 2.6% (Not Limited) and was derived using the national calculation.
+
+Organic Matter (OM) 
+ENG - Construction Materials; Reclamation
+The limitation for this interpretation is low content of organic matter and is driven by the Organic Matter (OM) content (thickest layer, 0-180cm). This value for the CO075, CO095, CO115, and CO125 Haxtun component is between 0.25-0.75% (Somewhat Limited), and for the CO121 Haxtun component it is 1.25% (Not Limited). This value for the new MLRA component is 0.25% (Somewhat Limited).
+
+Sand Content 
+ENG - Construction Materials; Sand Source
+The limitation for this interpretation is difference between the #4 and #200 sieves and is driven by the total sand content (thickest layer, 0-180cm). This value for the CO075, CO095, CO115, and CO125 Haxtun component is between 53-63% (Somewhat Limited), and for the CO121 Haxtun component it is 44% (Not Limited). For the new MLRA component it is 52% (Somewhat Limited).
+
+Saturated Hydraulic Conductivity (Ksat) 
+AWM - Irrigation Disposal of Wastewater
+AWM - Land Application of Municipal Sewage Sludge
+AWM - Manure and Food Processing Waste
+AWM - Slow Rate Process Treatment of Wastewater
+The limitation for these interpretations is slow water movement and is driven by the minimum representative Saturated Hydraulic Conductivity (Ksat) (0-150cm). This value for the CO075, CO115, CO121, and CO125 Haxtun component is 3 um/s (Somewhat Limited), and for the CO095 Haxtun component is 9 um/s (Not Limited). The Ksat values are prior populations of unknown origin. This value for the new MLRA component is 3 um/s (Somewhat Limited) and was populated following the MLRA 72 Ksat scheme based on the RV texture class.
+
+DHS - Catastrophic Mortality, Large Animal Disposal, Pit
+DHS - Catastrophic Mortality, Large Animal Disposal, Trench
+The limitation for these interpretations is seepage and is driven by the representative Saturated Hydraulic Conductivity (Ksat) (bottom layer). This value for the CO075, CO095, and CO115 Haxtun component it is between 23-28 um/s (Somewhat Limited), for the CO121 Haxtun component it is 3 um/s (Not Limited), and for the CO125 Haxtun component it is 73 um/s (Very Limited). The Ksat values are prior populations of unknown origin. This value for the new MLRA component is 6 um/s (Not Limited) and was populated following the MLRA 72 Ksat scheme based on the RV texture class.
+
+DHS - Rubble and Debris Disposal, Large-Scale Event
+DHS - Site for Composting Facility  Subsurface
+ENG - Sanitary Landfill (Trench)
+The limitation for these interpretations is seepage and is driven by the representative Saturated Hydraulic Conductivity (Ksat) (bottom layer). This value for the CO075, CO095, CO115, and CO125 Haxtun component it is between 23-73 um/s (Severely Limited) and for the CO121 Haxtun component it is 3 um/s (Not Limited). The Ksat values are prior populations of unknown origin. This value for the new MLRA component is 6 um/s (Not Limiting) and was populated following the MLRA 72 Ksat scheme based on the RV texture class.
+
+ENG - Daily Cover for Landfill
+The limitation for these interpretations is seepage and is driven by the representative Saturated Hydraulic Conductivity (Ksat) (thickest layer, 25-150cm). This value for the CO075 and CO121 Haxtun component is between 3-9 um/s (Not Limited), for the CO095 and CO115 Haxtun component it is 23 um/s (Somewhat Limited), and for the CO125 Haxtun component it is 73 um/s (Very Limited). The Ksat values are prior populations of unknown origin. This value for the new MLRA component is 6 um/s (Not Limited) and was populated following the MLRA 72 Ksat scheme based on the RV texture class.
+
+WMS - Irrigation, General
+WMS - Irrigation, Surface (graded)
+WMS - Irrigation, Surface (level)
+The limitation for these interpretations is rapid water movement and is driven by the minimum representative Saturated Hydraulic Conductivity (Ksat) (0-50cm). This value for the CO075, CO115, CO121, and CO125 Haxtun component is between 22-28 um/s (Very Limited), and for the CO095 Haxtun component it is 9 um/s (Somewhat Limited). These values are prior populations of unknown origin. This value for the new MLRA component is 16 (Very Limited) and was populated following the MLRA 72 Ksat scheme based on the RV texture class.
+
+WMS - Irrigation, Micro (above ground)
+WMS - Irrigation, Micro (subsurface drip)
+The limitation for these interpretations is seepage and is driven by the maximum Saturated Hydraulic Conductivity (Ksat) (0-100cm). This value for the CO075, CO095, CO115, and CO121 Haxtun component is 28 um/s (Somewhat Limited), and for the CO125 Haxtun component it is 73 um/s (Very Limited). These are prior populations of unknown origin. This value for the new MLRA component is 28 um/s (Somewhat Limited) and was populated following the MLRA 72 Ksat scheme based on the RV texture class.
+
+Slope Length USLE
+AGR - Water Erosion Potential (NE)
+The limitation for this interpretation is Slope Length USLE. The CO075, CO095, CO115, CO121, and CO125 Haxtun component do not have Slope Length USLE populated and therefore are Not Rated. The new MLRA component has a Slope Length USLE of 91 (Very Low) and was derived from the national calculation.
+
+Soil Leaching Loss Rating (SLLR)
+AGR - Pesticide Loss Potential-Leaching
+The limitation for this interpretation is low adsorption and is driven by the Soil Leaching Loss Rating (SLLR). The SLLR is the (Surface Layer Depth) * (Organic Matter Content). The CO075, CO095, and CO115 Haxtun components are in the B HSG with an SLLR between 60-75 (Not Limited), and the CO121 and CO125 Haxtun components are in the B HSG with and SLLR of 45 (Somewhat Limited). These are prior populations of unknown origin. The new MLRA component is in the C HSG with a SLLR of 61 (Not Limited) and was derived from the national calculation.
+
+Unified Class
+WMS - Embankments, Dikes, and Levees
+The limitation for this interpretation is piping and is driven by the Unified Dominant Condition (25-200cm). Dominant condition is the Unified Class with the greatest thickness within the 25-200cm zone. This value for the CO075 and CO121 Haxtun component is cl (Somewhat Limited) and for the CO095, CO115, and CO125 Haxtun component it is cl-ml (Very Limited). These are prior populations of unknown origin. This value for the new MLRA component is cl (Somewhat Limited) and was derived from the national calculation.
+"|"95061"|"760338"
+06/23/2014 00:00:00|"Miscellaneous notes"|"spot symbols"||"The spot symbols associated with the Haxtun sandy loam, 0 to 3 percent slopes mapunit (2s7wf) by county are as follows.
+
+County		Spot Symbol							# of Symbols	Acres		
+CO095		Depression								318			 954		
+CO125		Depression								912			2736	
+CO115		Gravel Pit								  1			   3		
+CO121		Gravel Pit								  1			   3	
+CO075		Gravelly Spot							  8			  24		
+CO095		Gravelly Spot							  5			  15		
+CO121		Gravelly Spot							  3			   9		
+CO125		Gravelly Spot							 28			  84	
+CO075		Gumbo, slick or scabby spot (sodic)		 94			 282	
+CO115		Pothole									 27			  81	
+CO075		Rock Outcrop							  3			   9		
+CO095		Rock Outcrop							  8			  24		
+CO115		Rock Outcrop							  5			  15		
+CO121		Rock Outcrop							  1			   3		
+CO125		Rock Outcrop							  7			  21	
+CO075		Saline Spot								  4			  12	
+CO075		Sandy Spot								  6			  18		
+CO095		Sandy Spot								 19			  57		
+CO115		Sandy Spot								  1			   3		
+CO125		Sandy Spot								  6			  18	
+CO075		Severely Eroded Spot					 22			  66		
+CO121		Severely Eroded Spot					  3			   9		
+CO125		Severely Eroded Spot					100			 300	
+CO075		Wet Spot								  9			  27	
+
+Percentage of Total Acres
+2.814%	Depression
+0.005%	Gravel Pit
+0.101%	Gravelly Spot
+0.215%	Gumbo, slick or scabby spot (sodic)
+0.062%	Pothole
+0.055%	Rock Outcrop
+0.009%	Saline Spot
+0.073%	Sandy Spot
+0.286%	Severely Eroded Spot
+0.021%	Wet Spot
+"|"95061"|"760339"
+06/23/2014 00:00:00|"Miscellaneous notes"|"creation"||"This datamapunit was created on 06/06/2014 to support the Haxtun sandy loam, 0 to 3 percent slopes (2s7wf) mapunit, which was created to bring mapunit HxB up to Title 430 National Instruction Part 305 standards, as part of the Soil Data Join Re-correlation (SDJR) effort in MLRA 72.
+
+The Haxtun components were copied from DMU 67869, the Ascalon component was copied from DMU 659245, which supports the MLRA 72 SDJR version of Haxtun loamy sand, 0 to 3 percent slopes (2s7wd), and the Loup component was copied from DMU 657816, which supports the MLRA 65 SDJR version of Els-Ipage complex, 0 to 3 percent slopes (2s81h). Any edits made to these copied components are documented in the Edit note in the appropriate Component Text Table. 
+
+MAP, MAAT, and FFD were populated using 30-year NOAA data (1981-2010), for sites in MLRA 72 north of Beaver Creek. 
+
+Elevations were reviewed and populated using topographic data.
+
+The components and datamapunit were populated to satisfy the minimum data requirements of Title 430 - National Instruction Part 305 and SSRO5 Technical Note 8 Attachments 1 and 2.
+
+"|"95061"|"760340"
+02/17/2009 00:00:00|"Edit notes"|"minor hydric compone"||"The minor hydric component was removed from the data mapunit to coincide with the original soil survey publication.  Minor hydric components were added into the data mapunits based upon aerial photography and where not verified on the ground in an update process.  Component percentages were adjusted accordingly."|"95066"|"760345"
+02/17/2009 00:00:00|"Edit notes"|"minor hydric compone"||"The minor hydric component was removed from the data mapunit to coincide with the original soil survey publication.  Minor hydric components were added into the data mapunits based upon aerial photography and where not verified on the ground in an update process.  Component percentages were adjusted accordingly."|"95072"|"760346"
+02/10/2015 00:00:00|"Map unit description"|"map unit concept"||"DMU ID:  MLRA 67B - Ascalon sandy loam, sandy substratum, 3 to 5 percent slopes
+NAT SYM:  2tlnv
+Ecological site:  Sandy plains (MLRA 67B)   Sandy (North)Draft(April 2010)(PE 16-20) (MLRA 72)
+Soil depth:  very deep
+Drainage:  well
+
+Map unit concept:
+
+The Ascalon sandy loam, sandy substratum, 3 to 5 percent slopes map unit is mapped in three counties in MLRA 67B and 72. They are Logan, Sedgwick and Yuma Counties. It is mapped on broad flat interfluves of tablelands.  This unit is in the 15 to 20 inch (380-508mm) precipitation zone.  Elevation ranges from 1090 to 1360 meters, air temperature ranges from 8 to 11 degrees C, and frost free days range from 125 to 160 days.
+
+Also included in this map unit is the Manter series which makes up about 10 percent of the unit.  The Manter series has a dark surface and has more sand and less clay in the particle size control section than Ascalon. 
+"|"95073"|"760347"
+02/13/2015 00:00:00|"Miscellaneous notes"|"SDJR project"|"DMU"|"This datamapunit is being created on 2/10/2015 to be used for the map unit Ascalon fine sandy loam, sandy substrattum, 3 TO 5  percent slopes, as it occurs in Sedgwick County, Logan and Yuma Counties Colorado, in MLRA 72. This datamapunit was created by editing a copy of DMUID MLRA 72 - Ascalon sandy loam,sandy substrattum, 5 to 9 percent slopes DMURECID 705153,  which had previously been edited and had most properties populated and passed validations.  All data elements including MAP, MAAT,FFD and minor componant selection are being reviewed in the context of using the datamapunit across MLRA 67B and 72 and will pass all validations and requirements of National Bulletin 430-5-7. MJM "|"95073"|"760348"
+02/11/2015 00:00:00|"Miscellaneous notes"|"minor compoents"||"Minor components used in these three map units:
+
+CO075011 Logan County - Satanta loam, Manter sandy loam, Haxton(unknown surface texture)
+
+CO115AsC Sedgwick County - eroded soil, rock outcrop
+
+CO125003 Yuma County - eroded soils, Manter sandy loam,
+
+Only Manter was chosen as a minor component for this unit.  Manter was used in two surveys, Logan and Yuma.  
+Satanta and Haxton were not included due to use in only one survey and the loam and clay loam textures in these soils.
+
+
+"|"95073"|"760349"
+02/17/2009 00:00:00|"Edit notes"|"minor hydric compone"||"The minor hydric component was removed from the data mapunit to coincide with the original soil survey publication.  Minor hydric components were added into the data mapunits based upon aerial photography and where not verified on the ground in an update process.  Component percentages were adjusted accordingly."|"95074"|"760350"
+01/08/2014 00:00:00|"Correlation notes"|"minor componants"|"DMU"|"Justification for inclusion choice.
+Rago, is a fine, smectitic, mesic Pachic Argiustoll and Ascalon, fine-loamy, mixed, superactive,
+mesic Aridic Argiustoll were used as minor components for this DMU and map unit.  Rago and Ascalon
+are prevealent throughout the MLRA and were minor components in several map units and have the
+same parent material and landform.  Both of these or similar soils were documented with 232s and
+field notes within various Platner map units.  This map unit and components are formed in a plains
+setting with eolian and alluvial parent material.
+
+Platner, Rago and Ascalon were all three set up in Washington County.  All 3 typifying sites are
+within 11 miles of each other and are located on similar landforms.
+"|"95079"|"760352"
+12/13/2013 00:00:00|"Miscellaneous notes"|"SDJR"|"DMU"|"The Platner loam, 0-1% slopes, Platner loam, 0-3% slopes and the Platner loam, 1-3% slopes
+map units in MLRA(s) 67B and 72 are part of the MLRA map unit consolidation project (SDJR). 
+The map unit concept will be identified from the soil survey manuscripts and the map units 
+consolidated so that data population is consistent wherever they are mapped.   
+ The map units will be reviewed as one physiographic area, and that project is assigned to the
+5-FTM, Fort Morgan, Colorado office for recorrelation. Publication map unit symbols and names
+for this  project will stay the same.  The consolidation project will reduce the number of map units
+and data map units to as few national map unit symbols as possible.  The new data map unit will 
+be created using available data from existing data map units, NASIS pedons, and KSSL  and university
+lab data.  The map units will meet national standards. 
+ The official series descriptions will be reviewed
+and updated during the process, as will all of the KSSL samples.
+
+This datamapunit is being created on 12/18/2013 to be used for the map unit Platner loam, 0 to 3
+percent slopes, as it occurs in ten counties in MLRA 67B and MLRA 72.  In those ten counties there
+are currently twelve datamapunits correlated to this map unit.  This datamapunit was created by editing a 
+copy of DMUID 063-70, RECID 68428,  which had previously been edited and had most properties populated
+and passed validations.  All data elements including MAP, MAAT, and FFD are being reviewed in the context
+of using the datamapunit across MLRA 67B.  A major editing emphasis is being placed on the composition
+of minor components and their percentages.  Minor components are being reviewed and edited and will pass
+all validations and requirements of National Bulletin 430-5-7. MJM "|"95079"|"760353"
+01/23/2014 00:00:00|"Map unit description"|"map unit concept"||"DMU ID:  MLRA 67B  Platner loam, 0 to 3 percent slopes
+NAT SYM:  2tln0
+Ecological site:  Loamy Plains
+Soil Depth:  very deep
+Drainage:  well
+
+Map unit concept:
+
+The Platner loam, 0 to 3 percent slopes map unit is mapped in ten counties in MLRA 67B and MLRA 72.
+They are Adams, Elbert East, Kit Carson, Lincoln, Logan, Morgan, Phillips, Washington, Weld North
+and Yuma.
+
+It is mapped on tablelands.  This unit is in the 15 to 18 inch (398-453) precipitation zone.  Elevation
+ranges from 1083 to 1795 meters, air temperature ranges from 7 to 9 degrees C, and frost free days range
+from 140 to 165 days.
+
+Also included in this map unit are the Ascalon sandy loam and Rago loam series.  The Ascalon series
+has a sandy loam surface, is fine loamy in the control section, has more sand and less clay than
+the Platner and Rago series.  It makes up about 10 percent of the unit.
+
+The Rago series has a thicker mollic epipedon than the Platner and Ascalon series
+and has more clay than the Ascalon series.  The Rago series is formed in eolian material 
+of two different ages that has a buried soil marking the contact between the two ages of
+material. It is found in drainage ways and playa's.  It makes up about 5 percent of the unit.  
+"|"95079"|"760354"
+02/17/2009 00:00:00|"Edit notes"|"minor hydric compone"||"The minor hydric component was removed from the data mapunit to coincide with the original soil survey publication.  Minor hydric components were added into the data mapunits based upon aerial photography and where not verified on the ground in an update process.  Component percentages were adjusted accordingly."|"95093"|"760373"

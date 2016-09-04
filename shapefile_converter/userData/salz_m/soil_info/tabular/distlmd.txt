@@ -1,0 +1,105 @@
+"Non-MLRA Soil Survey Area"|"IL123"|"Marshall County, Illinois"||07/01/1997 00:00:00|"certified, major components"|09/25/2015 09:39:02|"IL123
+
+The ""51A 63ln-Muscatune silt loam, 0 to 2 percent slopes"" mapunit was combined with the ""51A 2w1yp-Muscatune silt loam, 0 to 2 percent slopes"" map unit as a result of the ""SDJR - MLRA 108B - Muscatune silt loam, 0 to 2 percent slopes"" project"".
+
+The ""86B2 63n1-Osco silty clay loam, 2 to 5 percent slopes, eroded"" mapunit was combined with the ""86B2 2tjnw-Osco silt loam, 2 to 5 percent slopes, eroded"" map unit as a result of the ""SDJR - MLRA 108B - Osco silt loam, 2 to 5 percent slopes, eroded"" project"".
+
+The ""148B 63gk-Proctor silt loam, 2 to 5 percent slopes"" mapunit was combined with the ""148B 2sss5-Proctor silt loam, 2 to 5 percent slopes"" map unit as a result of the ""SDJR - MLRA 108A - Proctor silt loam, 2 to 5 percent slopes"" project"".
+
+The ""233B 63hr-Birkbeck silt loam, 2 to 5 percent slopes"" mapunit was combined with the ""233B 2sssb-Birkbeck silt loam, 2 to 5 percent slopes"" map unit as a result of the ""SDJR - MLRA 108A - Birkbeck silt loam, 2 to 5 percent slopes"" project"".
+
+The ""236A 63hx-Sabina silt loam, 0 to 2 percent slopes"" mapunit was combined with the ""236A 2sss8-Sabina silt loam, 0 to 2 percent slopes"" map unit as a result of the ""SDJR - MLRA 108A - Sabina silt loam, 0 to 2 percent slopes"" project"".
+
+The ""257A 63j8-Clarksdale silt loam, 0 to 2 percent slopes"" mapunit was combined with the ""257A 2vpm4-Clarksdale silt loam, 0 to 2 percent slopes"" map unit as a result of the ""SDJR - MLRA 115C - Clarksdale silt loam, 0 to 2 percent slopes"" project"".
+
+The ""279B2 63jg-Rozetta silt loam, 2 to 5 percent slopes, eroded"" mapunit was combined with the ""279B2 2tjp5-Rozetta silt loam, 2 to 5 percent slopes, eroded"" map unit as a result of the ""SDJR - MLRA 115C - Rozetta silt loam, 2 to 5 percent slopes, eroded"" project"".
+
+The ""435A 63lb-Streator silty clay loam, 0 to 2 percent slopes"" mapunit was combined with the ""435A 2sn01-Streator silty clay loam, 0 to 2 percent slopes"" map unit as a result of the ""SDJR - MLRA 108A - Streator silty clay loam, 0 to 2 percent slopes"" project"".
+
+The ""614A 63mb-Chenoa silt loam, 0 to 2 percent slopes"" mapunit was combined with the ""614A 2t706-Chenoa silty clay loam, 0 to 2 percent slopes"" map unit as a result of the ""SDJR - MLRA 110 - Chenoa silty clay loam, 0 to 2 percent slopes"" project"".
+
+The ""z233B2 63ht-Birkbeck silty clay loam, 2 to 5 percent slopes, eroded"" mapunit was combined with the ""233B2 2sssc-Birkbeck silt loam, 2 to 5 percent slopes, eroded"" map unit as a result of the ""SDJR - MLRA 108A - Birkbeck silt loam, 2 to 5 percent slopes, eroded"" project"".
+
+The ""z233C2 63hv-Birkbeck silt loam, 5 to 10 percent slopes, eroded"" mapunit was combined with the ""233C2 2sssd-Birkbeck silt loam, 5 to 10 percent slopes, eroded"" map unit as a result of the ""SDJR - MLRA 108A - Birkbeck silt loam, 5 to 10 percent slopes, eroded"" project"".
+
+These projects were part of the Soil Data Join Recorrelation Initiative (SDJR). The tabular database was edited and populated according to guidance in National Instruction (NI-305) exhibits A and B.
+
+IL123 	Marshall County, Illinois 	51A 	2903540 	
+""63ln-Muscatune silt loam, 0 to 2 percent slopes""
+	51A 	
+SDJR - MLRA 108B - Muscatune silt loam, 0 to 2 percent slopes
+	182207 	
+2w1yp-Muscatune silt loam, 0 to 2 percent slopes""
+	Muscatune 	Muscatune 	5 	5 	48 	48 	6 	6 	b/d 	b/d 	.28 	.32 	.28 	.32 	H1 	Ap 	0 	0
+IL123 	Marshall County, Illinois 	86B2 	2906740 	
+""63n1-Osco silty clay loam, 2 to 5 percent slopes, eroded""
+	86B2 	
+SDJR - MLRA 108B - Osco silt loam, 2 to 5 percent slopes, eroded
+	182250 	
+2tjnw-Osco silt loam, 2 to 5 percent slopes, eroded""
+	Osco 	Osco 	5 	5 	48 	48 	6 	6 	c 	b 	.32 	.37 	.32 	.37 	H1 	Ap 	0 	0
+IL123 	Marshall County, Illinois 	148B 	2930902 	
+""63gk-Proctor silt loam, 2 to 5 percent slopes""
+	148B 	
+SDJR - MLRA 108A - Proctor silt loam, 2 to 5 percent slopes
+	182080 	
+2sss5-Proctor silt loam, 2 to 5 percent slopes""
+	Proctor 	Proctor 	5 	5 	48 	48 	6 	6 	b 	b 	.32 	.32 	.32 	.32 	H1 	Ap 	0 	0
+IL123 	Marshall County, Illinois 	233B 	2896362 	
+""63hr-Birkbeck silt loam, 2 to 5 percent slopes""
+	233B 	
+SDJR - MLRA 108A - Birkbeck silt loam, 2 to 5 percent slopes
+	182117 	
+2sssb-Birkbeck silt loam, 2 to 5 percent slopes""
+	Birkbeck 	Birkbeck 	5 	5 	48 	56 	6 	5 	c 	c 	.37 	.37 	.37 	.37 	H1 	A 	0 	0
+IL123 	Marshall County, Illinois 	236A 	2926092 	
+""63hx-Sabina silt loam, 0 to 2 percent slopes""
+	236A 	
+SDJR - MLRA 108A - Sabina silt loam, 0 to 2 percent slopes
+	182122 	
+2sss8-Sabina silt loam, 0 to 2 percent slopes""
+	Sabina 	Sabina 	5 	4 	48 	56 	6 	5 	c/d 	c/d 	.37 	.43 	.37 	.43 	H1 	Ap 	0 	0
+IL123 	Marshall County, Illinois 	257A 	2903772 	
+""63j8-Clarksdale silt loam, 0 to 2 percent slopes""
+	257A 	
+SDJR - MLRA 115C - Clarksdale silt loam, 0 to 2 percent slopes
+	182133 	
+2vpm4-Clarksdale silt loam, 0 to 2 percent slopes""
+	Clarksdale 	Clarksdale 	5 	5 	48 	56 	6 	5 	c/d 	c/d 	.32 	.43 	.32 	.43 	H1 	Ap 	0 	0
+IL123 	Marshall County, Illinois 	279B2 	2870297 	
+""63jg-Rozetta silt loam, 2 to 5 percent slopes, eroded""
+	279B2 	
+SDJR - MLRA 115C - Rozetta silt loam, 2 to 5 percent slopes, eroded
+	182139 	
+2tjp5-Rozetta silt loam, 2 to 5 percent slopes, eroded""
+	Rozetta 	Rozetta 	5 	5 	48 	56 	6 	5 	c 	b 	.43 	.43 	.43 	.43 	H1 	Ap 	0 	0
+IL123 	Marshall County, Illinois 	435A 	2918620 	
+""63lb-Streator silty clay loam, 0 to 2 percent slopes""
+	435A 	
+SDJR - MLRA 108A - Streator silty clay loam, 0 to 2 percent slopes
+	182197 	
+2sn01-Streator silty clay loam, 0 to 2 percent slopes""
+	Streator 	Streator 	5 	5 	48 	86 	6 	4 	c/d 	c/d 	.24 	.24 	.24 	.24 	H1 	Ap 	0 	0
+IL123 	Marshall County, Illinois 	614A 	2925937 	
+""63mb-Chenoa silt loam, 0 to 2 percent slopes""
+	614A 	
+SDJR - MLRA 110 - Chenoa silty clay loam, 0 to 2 percent slopes
+	182228 	
+2t706-Chenoa silty clay loam, 0 to 2 percent slopes""
+	Chenoa 	Chenoa 	5 	5 	48 	48 	6 	6 	c/d 	c/d 	.24 	.28 	.24 	.28 	H1 	Ap 	0 	0
+IL123 	Marshall County, Illinois 	z233B2 	2909642 	
+""63ht-Birkbeck silty clay loam, 2 to 5 percent slopes, eroded""
+	233B2 	
+SDJR - MLRA 108A - Birkbeck silt loam, 2 to 5 percent slopes, eroded
+	182119 	
+2sssc-Birkbeck silt loam, 2 to 5 percent slopes, eroded""
+	Birkbeck 	Birkbeck 	5 	5 	48 	48 	6 	6 	c 	c 	.32 	.37 	.32 	.37 	H1 	Ap 	0 	0
+IL123 	Marshall County, Illinois 	z233C2 	2918406 	
+""63hv-Birkbeck silt loam, 5 to 10 percent slopes, eroded""
+	233C2 	
+SDJR - MLRA 108A - Birkbeck silt loam, 5 to 10 percent slopes, eroded
+	182120 	
+2sssd-Birkbeck silt loam, 5 to 10 percent slopes, eroded""
+	Birkbeck 	Birkbeck 	5 	5 	48 	48 	6 	6 	c 	c 	.37 	.37 	.37 	.37 	H1 	Ap 	0 	0
+
+"|"11376"|"49085"|"48987"

@@ -1,0 +1,6 @@
+"County or Parish"|"IL099"|"La Salle"|735640|"11359"|"296906"
+"MLRA"|"108A"|"Illinois and Iowa Deep Loess and Drift, Eastern Part"|565290|"11359"|"296907"
+"MLRA"|"110"|"Northern Illinois and Indiana Heavy Till Plain"|165371|"11359"|"296908"
+"MLRA"|"115C"|"Central Mississippi Valley Wooded Slopes, Northern Part"|4979|"11359"|"296909"
+"Rainfall Factor Area (USLE)"|"180"|"Rainfall Factor"|735640|"11359"|"296910"
+"State or Territory"|"IL"|"Illinois"|735640|"11359"|"296911"

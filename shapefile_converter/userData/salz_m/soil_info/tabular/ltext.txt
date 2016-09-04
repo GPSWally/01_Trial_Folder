@@ -1,0 +1,10 @@
+08/02/1999 00:00:00|"Miscellaneous notes"|"ARSS"|"SEZP"||"11376"|"50368"
+10/06/2011 00:00:00|"Miscellaneous notes"|"legend"||"Legend reassigned from NASIS Group 11-2 Springfield, Illinois to MO11 Illinois Legends."|"11376"|"50369"
+01/05/2012 00:00:00|"Edit notes"|"acres"||"Edited acres as follows:
+25G deducted 17 acres added to 883G, which was added to legend 9-2012.
+383B deducted 23 acres added to 675B, which was added to legend 9-2012.
+484A deducted 140 acres added to 715A, which was added to legend 9-2012.
+3480L deducted 713 acres added to 1480L, which was added to legend 9-2012.
+RT 10-5-12
+"|"11376"|"50370"
+05/29/2014 00:00:00|"Edit notes"|||"Legend mapunit acres and legend area overlap tables updated based on current SSURGO data and adjusted to agree with NRI total acreage. Data provided by 11-SPR MLRA SSO."|"11376"|"50371"

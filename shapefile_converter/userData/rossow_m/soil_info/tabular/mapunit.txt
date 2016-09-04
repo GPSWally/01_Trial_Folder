@@ -1,0 +1,3 @@
+"170"|"Dospalos clay loam, partially drained"|"Consociation"||14560|||||||"Prime farmland if irrigated"|||||||||||"14112"|"462822"
+"178"|"Elnido sandy loam, partially drained"|"Consociation"||5850|||||||"Prime farmland if irrigated"|||||||||||"14112"|"462830"
+"180"|"Elnido clay loam, partially drained"|"Consociation"||3880|||||||"Prime farmland if irrigated"|||||||||||"14112"|"462832"

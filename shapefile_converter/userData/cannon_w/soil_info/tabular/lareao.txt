@@ -1,0 +1,7 @@
+"Climate Factor Area (USLE)"|"10"|"Climate Factor"|468700|"13688"|"278431"
+"County or Parish"|"IA099"|"Jasper"|468700|"13688"|"278432"
+"MLRA"|"103"|"Central Iowa and Minnesota Till Prairies"|27298|"13688"|"278433"
+"MLRA"|"108C"|"Illinois and Iowa Deep Loess and Drift, West-Central Part"|441402|"13688"|"278434"
+"MLRA"|"108D"|"Illinois and Iowa Deep Loess and Drift, Western Part"||"13688"|"278435"
+"Rainfall Factor Area (USLE)"|"175"|"Rainfall Factor"|468700|"13688"|"278436"
+"State or Territory"|"IA"|"Iowa"|468700|"13688"|"278437"

@@ -1,0 +1,11 @@
+"Non-MLRA Soil Survey Area"|"CA647"|"Merced County, California, Western Part"||03/01/1984 00:00:00|"certified, major components"|09/18/2015 07:47:12|"A full set of national interpretations were included with the export per National Bulletin 430-14-11.From the NSSC Regional group these interpretations were included: BLM interpretations and the AGR-
+Pesticide Loss interpretations; Region 2, AGR-Avocado Root Rot Hazard, AGR-CA Revised Storie Index, WLF-Desert Tortoise; Region 1, GRL-Western Juniper Encroachment Potential (OR).
+   Water Content, Bulk Density-oven dry, AASHTO Group, K factor, 
+Corrosion Concrete and Steel, HSG, T factor, WEG/WEI were recalculated 
+for all correlated DMU's in the legend, per National Bulletin 430-12-1.  
+Stratified textures were unchecked in order to run the particle size 
+calculation and then rechecked.  Minor components and higher Category 
+major components may or may not have sufficient data to pass all 
+validations.  Miscellaneous areas are variably populated and should be 
+reviewed.  Any mapunits that were modified or added during the SDJR project have also been included with this certification.
+"|"14112"|"47989"|"47891"

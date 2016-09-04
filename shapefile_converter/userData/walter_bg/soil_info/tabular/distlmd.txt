@@ -1,0 +1,246 @@
+"Non-MLRA Soil Survey Area"|"IL099"|"La Salle County, Illinois"||06/01/2006 00:00:00|"certified, major components"|09/25/2015 09:04:01|"IL099
+
+The ""51A 1hhvv-Muscatune silt loam, 0 to 2 percent slopes"" mapunit was combined with the ""51A 2w1yp-Muscatune silt loam, 0 to 2 percent slopes"" map unit as a result of the ""SDJR - MLRA 108B - Muscatune silt loam, 0 to 2 percent slopes"" project"".
+
+The ""67A 13kx0-Harpster silty clay loam, 0 to 2 percent slopes"" mapunit was combined with the ""67A 2t705-Harpster silty clay loam, 0 to 2 percent slopes"" map unit as a result of the ""SDJR - MLRA 108A - Harpster silty clay loam, 0 to 2 percent slopes"" project"".
+
+The ""148A 1jw04-Proctor silt loam, 0 to 2 percent slopes"" mapunit was combined with the ""148A 2sss4-Proctor silt loam, 0 to 2 percent slopes"" map unit as a result of the ""SDJR - MLRA 108A - Proctor silt loam, 0 to 2 percent slopes"" project"".
+
+The ""233A 8v3t-Birkbeck silt loam, 0 to 2 percent slopes"" mapunit was combined with the ""233A 2sss9-Birkbeck silt loam, 0 to 2 percent slopes"" map unit as a result of the ""SDJR - MLRA 108A - Birkbeck silt loam, 0 to 2 percent slopes"" project"".
+
+The ""234A 8v40-Sunbury silt loam, 0 to 2 percent slopes"" mapunit was combined with the ""234A 2sn04-Sunbury silt loam, 0 to 2 percent slopes"" map unit as a result of the ""SDJR - MLRA 108A - Sunbury silt loam, 0 to 2 percent slopes"" project"".
+
+The ""236A 8v43-Sabina silt loam, 0 to 2 percent slopes"" mapunit was combined with the ""236A 2sss8-Sabina silt loam, 0 to 2 percent slopes"" map unit as a result of the ""SDJR - MLRA 108A - Sabina silt loam, 0 to 2 percent slopes"" project"".
+
+The ""293A 8v57-Andres silt loam, 0 to 2 percent slopes"" mapunit was combined with the ""293A 2t6zx-Andres silt loam, 0 to 2 percent slopes"" map unit as a result of the ""SDJR - MLRA 110 - Andres silt loam, 0 to 2 percent slopes"" project"".
+
+The ""330A 13kx8-Peotone silty clay loam, 0 to 2 percent slopes"" mapunit was combined with the ""330A 2sn05-Peotone silty clay loam, 0 to 2 percent slopes"" map unit as a result of the ""SDJR - MLRA 110 - Peotone silty clay loam, 0 to 2 percent slopes"" project"".
+
+The ""435A 1jxqt-Streator silty clay loam, 0 to 2 percent slopes"" mapunit was combined with the ""435A 2sn01-Streator silty clay loam, 0 to 2 percent slopes"" map unit as a result of the ""SDJR - MLRA 108A - Streator silty clay loam, 0 to 2 percent slopes"" project"".
+
+The ""614A 1hk3r-Chenoa silty clay loam, 0 to 2 percent slopes"" mapunit was combined with the ""614A 2t706-Chenoa silty clay loam, 0 to 2 percent slopes"" map unit as a result of the ""SDJR - MLRA 110 - Chenoa silty clay loam, 0 to 2 percent slopes"" project"".
+
+The ""z148B 1hhy7-Proctor silt loam, 2 to 5 percent slopes"" mapunit was combined with the ""148B 2sss5-Proctor silt loam, 2 to 5 percent slopes"" map unit as a result of the ""SDJR - MLRA 108A - Proctor silt loam, 2 to 5 percent slopes"" project"".
+
+The ""z148C2 1hhy9-Proctor silt loam, 5 to 10 percent slopes, eroded"" mapunit was combined with the ""148C2 2sss7-Proctor silt loam, 5 to 10 percent slopes, eroded"" map unit as a result of the ""SDJR - MLRA 108A - Proctor silt loam, 5 to 10 percent slopes, eroded"" project"".
+
+The ""z233B 13kqb-Birkbeck silt loam, 2 to 5 percent slopes"" mapunit was combined with the ""233B 2sssb-Birkbeck silt loam, 2 to 5 percent slopes"" map unit as a result of the ""SDJR - MLRA 108A - Birkbeck silt loam, 2 to 5 percent slopes"" project"".
+
+The ""z233C2 1jw0k-Birkbeck silt loam, 5 to 10 percent slopes, eroded"" mapunit was combined with the ""233C2 2sssd-Birkbeck silt loam, 5 to 10 percent slopes, eroded"" map unit as a result of the ""SDJR - MLRA 108A - Birkbeck silt loam, 5 to 10 percent slopes, eroded"" project"".
+
+The ""z293B 1hjmv-Andres silt loam, 2 to 5 percent slopes"" mapunit was combined with the ""293B 2t6zz-Andres silt loam, 2 to 5 percent slopes"" map unit as a result of the ""SDJR - MLRA 110 - Andres silt loam, 2 to 5 percent slopes"" project"".
+
+These projects were part of the Soil Data Join Recorrelation Initiative (SDJR). The tabular database was edited and populated according to guidance in National Instruction (NI-305) exhibits A and B.
+
+
+IL099 	La Salle County, Illinois 	51A 	2903536 	
+""1hhvv-Muscatune silt loam, 0 to 2 percent slopes""
+	51A 	
+SDJR - MLRA 108B - Muscatune silt loam, 0 to 2 percent slopes
+	1385633 	
+2w1yp-Muscatune silt loam, 0 to 2 percent slopes""
+	Muscatune 	Muscatune 	5 	5 	48 	48 	6 	6 	b/d 	b/d 	.32 	.32 	.32 	.32 	A 	Ap 	0 	0
+IL099 	La Salle County, Illinois 	67A 	2940176 	
+""13kx0-Harpster silty clay loam, 0 to 2 percent slopes""
+	67A 	
+SDJR - MLRA 108A - Harpster silty clay loam, 0 to 2 percent slopes
+	1030099 	
+2t705-Harpster silty clay loam, 0 to 2 percent slopes""
+	Harpster 	Harpster 	5 	5 	86 	86 	4L 	4L 	b/d 	b/d 	.24 	.24 	.24 	.24 	H1 	Akp 	0 	0
+IL099 	La Salle County, Illinois 	148A 	2930745 	
+""1jw04-Proctor silt loam, 0 to 2 percent slopes""
+	148A 	
+SDJR - MLRA 108A - Proctor silt loam, 0 to 2 percent slopes
+	1426128 	
+2sss4-Proctor silt loam, 0 to 2 percent slopes""
+	Proctor 	Proctor 	5 	5 	48 	48 	6 	6 	b 	b 	.28 	.32 	.28 	.32 	H1 	Ap 	0 	0
+IL099 	La Salle County, Illinois 	233A 	2909494 	
+""8v3t-Birkbeck silt loam, 0 to 2 percent slopes""
+	233A 	
+SDJR - MLRA 108A - Birkbeck silt loam, 0 to 2 percent slopes
+	263432 	
+2sss9-Birkbeck silt loam, 0 to 2 percent slopes""
+	Birkbeck 	Birkbeck 	5 	5 	56 	56 	5 	5 	c 	c 	.43 	.37 	.43 	.37 	H1 	Ap 	0 	0
+IL099 	La Salle County, Illinois 	234A 	2930866 	
+""8v40-Sunbury silt loam, 0 to 2 percent slopes""
+	234A 	
+SDJR - MLRA 108A - Sunbury silt loam, 0 to 2 percent slopes
+	263438 	
+2sn04-Sunbury silt loam, 0 to 2 percent slopes""
+	Sunbury 	Sunbury 	5 	5 	56 	48 	5 	6 	c/d 	c/d 	.37 	.37 	.37 	.37 	H1 	Ap 	0 	0
+IL099 	La Salle County, Illinois 	236A 	2926089 	
+""8v43-Sabina silt loam, 0 to 2 percent slopes""
+	236A 	
+SDJR - MLRA 108A - Sabina silt loam, 0 to 2 percent slopes
+	263441 	
+2sss8-Sabina silt loam, 0 to 2 percent slopes""
+	Sabina 	Sabina 	5 	4 	56 	56 	5 	5 	c/d 	c/d 	.37 	.43 	.37 	.43 	H1 	Ap 	0 	0
+IL099 	La Salle County, Illinois 	293A 	2896297 	
+""8v57-Andres silt loam, 0 to 2 percent slopes""
+	293A 	
+SDJR - MLRA 110 - Andres silt loam, 0 to 2 percent slopes
+	263476 	
+2t6zx-Andres silt loam, 0 to 2 percent slopes""
+	Andres 	Andres 	5 	5 	48 	48 	6 	6 	c/d 	c/d 	.28 	.28 	.28 	.28 	H1 	Ap 	0 	0
+IL099 	La Salle County, Illinois 	330A 	2931028 	
+""13kx8-Peotone silty clay loam, 0 to 2 percent slopes""
+	330A 	
+SDJR - MLRA 110 - Peotone silty clay loam, 0 to 2 percent slopes
+	1030107 	
+2sn05-Peotone silty clay loam, 0 to 2 percent slopes""
+	Peotone 	Peotone 	5 	5 	86 	48 	4 	6 	c/d 	c/d 	.24 	.24 	.24 	.24 	H1 	Ap 	0 	0
+IL099 	La Salle County, Illinois 	435A 	2918618 	
+""1jxqt-Streator silty clay loam, 0 to 2 percent slopes""
+	435A 	
+SDJR - MLRA 108A - Streator silty clay loam, 0 to 2 percent slopes
+	1427792 	
+2sn01-Streator silty clay loam, 0 to 2 percent slopes""
+	Streator 	Streator 	5 	5 	86 	86 	4 	4 	c/d 	c/d 	.24 	.24 	.24 	.24 	H1 	Ap 	0 	0
+IL099 	La Salle County, Illinois 	614A 	2925935 	
+""1hk3r-Chenoa silty clay loam, 0 to 2 percent slopes""
+	614A 	
+SDJR - MLRA 110 - Chenoa silty clay loam, 0 to 2 percent slopes
+	1386839 	
+2t706-Chenoa silty clay loam, 0 to 2 percent slopes""
+	Chenoa 	Chenoa 	5 	5 	48 	48 	6 	6 	c/d 	c/d 	.28 	.28 	.28 	.28 	H1 	Ap 	0 	0
+IL099 	La Salle County, Illinois 	z148B 	2930897 	
+""1hhy7-Proctor silt loam, 2 to 5 percent slopes""
+	148B 	
+SDJR - MLRA 108A - Proctor silt loam, 2 to 5 percent slopes
+	1385707 	
+2sss5-Proctor silt loam, 2 to 5 percent slopes""
+	Proctor 	Proctor 	5 	5 	48 	48 	6 	6 	b 	b 	.32 	.32 	.32 	.32 	H1 	Ap 	0 	0
+IL099 	La Salle County, Illinois 	z148C2 	2940089 	
+""1hhy9-Proctor silt loam, 5 to 10 percent slopes, eroded""
+	148C2 	
+SDJR - MLRA 108A - Proctor silt loam, 5 to 10 percent slopes, eroded
+	1385709 	
+2sss7-Proctor silt loam, 5 to 10 percent slopes, eroded""
+	Proctor 	Proctor 	5 	5 	48 	48 	6 	6 	b 	b 	.37 	.37 	.37 	.37 	H1 	Ap 	0 	0
+IL099 	La Salle County, Illinois 	z233B 	2896357 	
+""13kqb-Birkbeck silt loam, 2 to 5 percent slopes""
+	233B 	
+SDJR - MLRA 108A - Birkbeck silt loam, 2 to 5 percent slopes
+	1029923 	
+2sssb-Birkbeck silt loam, 2 to 5 percent slopes""
+	Birkbeck 	Birkbeck 	5 	5 	56 	56 	5 	5 	c 	c 	.37 	.37 	.37 	.37 	H1 	A 	0 	0
+IL099 	La Salle County, Illinois 	z233C2 	2918402 	
+""1jw0k-Birkbeck silt loam, 5 to 10 percent slopes, eroded""
+	233C2 	
+SDJR - MLRA 108A - Birkbeck silt loam, 5 to 10 percent slopes, eroded
+	1426141 	
+2sssd-Birkbeck silt loam, 5 to 10 percent slopes, eroded""
+	Birkbeck 	Birkbeck 	5 	5 	48 	48 	6 	6 	c 	c 	.43 	.37 	.43 	.37 	H1 	Ap 	0 	0
+IL099 	La Salle County, Illinois 	z293B 	2896414 	
+""1hjmv-Andres silt loam, 2 to 5 percent slopes""
+	293B 	
+SDJR - MLRA 110 - Andres silt loam, 2 to 5 percent slopes
+	1386377 	
+2t6zz-Andres silt loam, 2 to 5 percent slopes""
+	Andres 	Andres 	5 	5 	48 	48 	6 	6 	c/d 	c/d 	.24 	.28 	.24 	.28 	H1 	Ap 	0 	0
+"|"11359"|"49083"|"48985"
+"Non-MLRA Soil Survey Area"|"IL123"|"Marshall County, Illinois"||07/01/1997 00:00:00|"certified, major components"|09/25/2015 09:39:02|"IL123
+
+The ""51A 63ln-Muscatune silt loam, 0 to 2 percent slopes"" mapunit was combined with the ""51A 2w1yp-Muscatune silt loam, 0 to 2 percent slopes"" map unit as a result of the ""SDJR - MLRA 108B - Muscatune silt loam, 0 to 2 percent slopes"" project"".
+
+The ""86B2 63n1-Osco silty clay loam, 2 to 5 percent slopes, eroded"" mapunit was combined with the ""86B2 2tjnw-Osco silt loam, 2 to 5 percent slopes, eroded"" map unit as a result of the ""SDJR - MLRA 108B - Osco silt loam, 2 to 5 percent slopes, eroded"" project"".
+
+The ""148B 63gk-Proctor silt loam, 2 to 5 percent slopes"" mapunit was combined with the ""148B 2sss5-Proctor silt loam, 2 to 5 percent slopes"" map unit as a result of the ""SDJR - MLRA 108A - Proctor silt loam, 2 to 5 percent slopes"" project"".
+
+The ""233B 63hr-Birkbeck silt loam, 2 to 5 percent slopes"" mapunit was combined with the ""233B 2sssb-Birkbeck silt loam, 2 to 5 percent slopes"" map unit as a result of the ""SDJR - MLRA 108A - Birkbeck silt loam, 2 to 5 percent slopes"" project"".
+
+The ""236A 63hx-Sabina silt loam, 0 to 2 percent slopes"" mapunit was combined with the ""236A 2sss8-Sabina silt loam, 0 to 2 percent slopes"" map unit as a result of the ""SDJR - MLRA 108A - Sabina silt loam, 0 to 2 percent slopes"" project"".
+
+The ""257A 63j8-Clarksdale silt loam, 0 to 2 percent slopes"" mapunit was combined with the ""257A 2vpm4-Clarksdale silt loam, 0 to 2 percent slopes"" map unit as a result of the ""SDJR - MLRA 115C - Clarksdale silt loam, 0 to 2 percent slopes"" project"".
+
+The ""279B2 63jg-Rozetta silt loam, 2 to 5 percent slopes, eroded"" mapunit was combined with the ""279B2 2tjp5-Rozetta silt loam, 2 to 5 percent slopes, eroded"" map unit as a result of the ""SDJR - MLRA 115C - Rozetta silt loam, 2 to 5 percent slopes, eroded"" project"".
+
+The ""435A 63lb-Streator silty clay loam, 0 to 2 percent slopes"" mapunit was combined with the ""435A 2sn01-Streator silty clay loam, 0 to 2 percent slopes"" map unit as a result of the ""SDJR - MLRA 108A - Streator silty clay loam, 0 to 2 percent slopes"" project"".
+
+The ""614A 63mb-Chenoa silt loam, 0 to 2 percent slopes"" mapunit was combined with the ""614A 2t706-Chenoa silty clay loam, 0 to 2 percent slopes"" map unit as a result of the ""SDJR - MLRA 110 - Chenoa silty clay loam, 0 to 2 percent slopes"" project"".
+
+The ""z233B2 63ht-Birkbeck silty clay loam, 2 to 5 percent slopes, eroded"" mapunit was combined with the ""233B2 2sssc-Birkbeck silt loam, 2 to 5 percent slopes, eroded"" map unit as a result of the ""SDJR - MLRA 108A - Birkbeck silt loam, 2 to 5 percent slopes, eroded"" project"".
+
+The ""z233C2 63hv-Birkbeck silt loam, 5 to 10 percent slopes, eroded"" mapunit was combined with the ""233C2 2sssd-Birkbeck silt loam, 5 to 10 percent slopes, eroded"" map unit as a result of the ""SDJR - MLRA 108A - Birkbeck silt loam, 5 to 10 percent slopes, eroded"" project"".
+
+These projects were part of the Soil Data Join Recorrelation Initiative (SDJR). The tabular database was edited and populated according to guidance in National Instruction (NI-305) exhibits A and B.
+
+IL123 	Marshall County, Illinois 	51A 	2903540 	
+""63ln-Muscatune silt loam, 0 to 2 percent slopes""
+	51A 	
+SDJR - MLRA 108B - Muscatune silt loam, 0 to 2 percent slopes
+	182207 	
+2w1yp-Muscatune silt loam, 0 to 2 percent slopes""
+	Muscatune 	Muscatune 	5 	5 	48 	48 	6 	6 	b/d 	b/d 	.28 	.32 	.28 	.32 	H1 	Ap 	0 	0
+IL123 	Marshall County, Illinois 	86B2 	2906740 	
+""63n1-Osco silty clay loam, 2 to 5 percent slopes, eroded""
+	86B2 	
+SDJR - MLRA 108B - Osco silt loam, 2 to 5 percent slopes, eroded
+	182250 	
+2tjnw-Osco silt loam, 2 to 5 percent slopes, eroded""
+	Osco 	Osco 	5 	5 	48 	48 	6 	6 	c 	b 	.32 	.37 	.32 	.37 	H1 	Ap 	0 	0
+IL123 	Marshall County, Illinois 	148B 	2930902 	
+""63gk-Proctor silt loam, 2 to 5 percent slopes""
+	148B 	
+SDJR - MLRA 108A - Proctor silt loam, 2 to 5 percent slopes
+	182080 	
+2sss5-Proctor silt loam, 2 to 5 percent slopes""
+	Proctor 	Proctor 	5 	5 	48 	48 	6 	6 	b 	b 	.32 	.32 	.32 	.32 	H1 	Ap 	0 	0
+IL123 	Marshall County, Illinois 	233B 	2896362 	
+""63hr-Birkbeck silt loam, 2 to 5 percent slopes""
+	233B 	
+SDJR - MLRA 108A - Birkbeck silt loam, 2 to 5 percent slopes
+	182117 	
+2sssb-Birkbeck silt loam, 2 to 5 percent slopes""
+	Birkbeck 	Birkbeck 	5 	5 	48 	56 	6 	5 	c 	c 	.37 	.37 	.37 	.37 	H1 	A 	0 	0
+IL123 	Marshall County, Illinois 	236A 	2926092 	
+""63hx-Sabina silt loam, 0 to 2 percent slopes""
+	236A 	
+SDJR - MLRA 108A - Sabina silt loam, 0 to 2 percent slopes
+	182122 	
+2sss8-Sabina silt loam, 0 to 2 percent slopes""
+	Sabina 	Sabina 	5 	4 	48 	56 	6 	5 	c/d 	c/d 	.37 	.43 	.37 	.43 	H1 	Ap 	0 	0
+IL123 	Marshall County, Illinois 	257A 	2903772 	
+""63j8-Clarksdale silt loam, 0 to 2 percent slopes""
+	257A 	
+SDJR - MLRA 115C - Clarksdale silt loam, 0 to 2 percent slopes
+	182133 	
+2vpm4-Clarksdale silt loam, 0 to 2 percent slopes""
+	Clarksdale 	Clarksdale 	5 	5 	48 	56 	6 	5 	c/d 	c/d 	.32 	.43 	.32 	.43 	H1 	Ap 	0 	0
+IL123 	Marshall County, Illinois 	279B2 	2870297 	
+""63jg-Rozetta silt loam, 2 to 5 percent slopes, eroded""
+	279B2 	
+SDJR - MLRA 115C - Rozetta silt loam, 2 to 5 percent slopes, eroded
+	182139 	
+2tjp5-Rozetta silt loam, 2 to 5 percent slopes, eroded""
+	Rozetta 	Rozetta 	5 	5 	48 	56 	6 	5 	c 	b 	.43 	.43 	.43 	.43 	H1 	Ap 	0 	0
+IL123 	Marshall County, Illinois 	435A 	2918620 	
+""63lb-Streator silty clay loam, 0 to 2 percent slopes""
+	435A 	
+SDJR - MLRA 108A - Streator silty clay loam, 0 to 2 percent slopes
+	182197 	
+2sn01-Streator silty clay loam, 0 to 2 percent slopes""
+	Streator 	Streator 	5 	5 	48 	86 	6 	4 	c/d 	c/d 	.24 	.24 	.24 	.24 	H1 	Ap 	0 	0
+IL123 	Marshall County, Illinois 	614A 	2925937 	
+""63mb-Chenoa silt loam, 0 to 2 percent slopes""
+	614A 	
+SDJR - MLRA 110 - Chenoa silty clay loam, 0 to 2 percent slopes
+	182228 	
+2t706-Chenoa silty clay loam, 0 to 2 percent slopes""
+	Chenoa 	Chenoa 	5 	5 	48 	48 	6 	6 	c/d 	c/d 	.24 	.28 	.24 	.28 	H1 	Ap 	0 	0
+IL123 	Marshall County, Illinois 	z233B2 	2909642 	
+""63ht-Birkbeck silty clay loam, 2 to 5 percent slopes, eroded""
+	233B2 	
+SDJR - MLRA 108A - Birkbeck silt loam, 2 to 5 percent slopes, eroded
+	182119 	
+2sssc-Birkbeck silt loam, 2 to 5 percent slopes, eroded""
+	Birkbeck 	Birkbeck 	5 	5 	48 	48 	6 	6 	c 	c 	.32 	.37 	.32 	.37 	H1 	Ap 	0 	0
+IL123 	Marshall County, Illinois 	z233C2 	2918406 	
+""63hv-Birkbeck silt loam, 5 to 10 percent slopes, eroded""
+	233C2 	
+SDJR - MLRA 108A - Birkbeck silt loam, 5 to 10 percent slopes, eroded
+	182120 	
+2sssd-Birkbeck silt loam, 5 to 10 percent slopes, eroded""
+	Birkbeck 	Birkbeck 	5 	5 	48 	48 	6 	6 	c 	c 	.37 	.37 	.37 	.37 	H1 	Ap 	0 	0
+
+"|"11376"|"49085"|"48987"

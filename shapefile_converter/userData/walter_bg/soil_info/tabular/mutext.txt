@@ -1,0 +1,171 @@
+08/05/2013 00:00:00|"Miscellaneous notes"|"evaluation"|"attribute"|"Part of the Soil Data Join Recorrelation (SDJR) Initiative. Currently, this map unit is mapped in 42 counties in IL, 3 counties in Indiana, and 2 counties in Wisconsin, and has 13 data mapunits. It is yet to be determined if Vermillion County IL and the three counties in Indiana will use the new data mapunit that was reviewed and edited for this project.  The mapunits in the Illinois part of MLRA 105 will be included in this project.  The map units in this project will be consolidated to have consistent data population wherever the map unit was mapped. Map unit symbols and names will stay the same for this project, which includes 41 counties in Illinois, and 1 county in Wisconsin (Dane).  The new map unit and new data mapunit will meet national and MO11 standards.  The Official Series Description will be updated as a part of this process. 
+This project will be looking at 68A - Sable silty clay loam, 0 to 2 percent slopes. The map unit in this project is mapped in 41 counties in IL and 1 county in Wisconsin, and has 6 data mapunits. This SDJR project will consolidate the number of map units and data map units to one for the 42 counties.
+This new data mapunit, DMUID 700463, is being created for the Soil Data Join Recorrelation (SDJR) Initiative for the 68A - Sable silty clay loam, 0 to 2 percent slopes, map unit. This data mapunit is created from a copy of DMUID 155134.  
+Data mapunit population was conducted using lab data for the Sable series from the KSSL and UofIL characterization database, and pedon data entered into NASIS.  The data was downloaded, reviewed, and aggregated for data population. The data was filtered for the different horizons and then statistics performed to find average, min, and max for various properties.  These values were used to help populate the Sable data mapunit.  Data from the existing DMUs were also taken into consideration. The DMU passed all validations and requirements of National Bulletin 430-305, November 2013. 
+The new Data map unit was then reviewed for consistency by using a variety of interpretation reports.  Changes were made to the DMU as needed.
+Minor components were determined by evaluating what was listed as minor components in the published soil surveys.  The list was evaluated and the most common minor dissimilar components were selected.  Minor components that were not used in NASIS were recognized in a mapunit text note.
+
+"|"182231"|"828861"
+12/19/2013 00:00:00|"Map unit description"|"map unit concept"||"Soils in this MLRA map unit formed in Peoria-aged loess.  The map units in this project are primarily on the Illinois till plain.  Some areas are underlain by Pre-Illinois till in western Illinois, some areas are unglaciated, and other areas are underlain by Wisconsin till in the eastern extent of this project.  The map units in this project are found in 41 Illinois counties and 1 Wisconsin county.  
+
+Included with these soils in mapping, are the following:
+undrained areas
+less clay in the surface soil and subsoil
+more sand in the lower subsoil and underlying material
+dark colored surface soil greater than 24 inches thick
+dark colored surface soil less than 10 inches thick
+less clay in the surface layer
+thinner subsoil
+thinner subsurface layer
+lighter colored subsurface layer
+less clay in the lower subsurface and upper subsoil
+carbonates at depths less than 40 inches
+thicker surface that contains less clay
+less clay in the surface and more clay in the subsoil
+more clay in the subsoil
+more sand in the underlying material and contains carbonates
+lighter colored surface 
+carbonates throughout
+more clay in the upper subsoil
+thinner and lighter colored subsurface layer
+silty overwash layer less than 20 inches thick
+more organic matter in the surface layer
+less clay in the underying material
+areas with slopes greater than 2 percent
+
+A future project will investigate loess thickness of Sable map units in MLRAs 95B, 108A and 108B.  The Sable map units in Dane Co. Wisconsin will be investigated for possible sandy substratum phases.
+
+There is a map unit join issue at the Ogle/Winnebago County boundary.  Winnebago Co. has 9068A joining 68A in Ogle Co.  A field investigation, will be needed to correct this issue.
+
+A future project will investigate the join issue between Jo Daviess Co. and Lafayette Co., based on surface texture differences.  This project will also investigate the impact of the ""driftless"" and glaciated landforms on the soil profile.
+
+
+"|"182231"|"828862"
+12/18/2013 00:00:00|"Edit notes"|"built or copied from"||"Copied Ipava component data from DMU 638640, from the Ipava SDJR Project, and pasted into the Sable DMU.  This will be edited as a minor component in the Sable DMU.  RT 12-18-13"|"182231"|"828923"
+12/20/2013 00:00:00|"Edit notes"|"last edited"||"Reviewed Sable component via QC Checklist.  Edited/added data per the checklist.  Ran horizon and component validations.  Calculated items required by the checklist.  Used KSSL data and Pedon data to adjust NASIS data where needed.  RT 12-20-13"|"182231"|"828924"
+01/24/2006 00:00:00|"Miscellaneous notes"|"similar"||"* Soils that have a thinner surface layer
+* Soils that have carbonates at a depth of more than 40 inches
+* Soils that have a seasonal high water table at a depth of more than 2 feet
+* Soils that have loamy drift in the lower part of the profile"|"1029921"|"827418"
+10/23/2003 00:00:00|"Correlation notes"|||"Approved 3/03.  Needed for a perfect join with DeKalb County.  Areas of Muscatine 41A in the northern part of the county will correlate to 715A.  These soils were found to have argillic horizons, and carbonates were generally shallower than 40 inches.  Will also be used to join with Livingston and Marshall Counties where they have Harco, 484 coming across.  TUD is the OSD pedon from McLean County (88IL-113-023)."|"1029921"|"827419"
+11/23/2005 00:00:00|"Miscellaneous notes"|"MUD"|"location"|"88IL-113-023 This location is the OSD pedon from McLean County;about 5.5 miles south and 2.5 miles west of Arrowsmith; 650 feet south and 1350 feet east of the NW corner of sec. 18, T22N R5E; USGS Farmer City North topographic quadrangle; lat 40 degrees 22 minutes 2.9 seconds N., and long 88 degrees 40 minutes 59.8 seconds W"|"1029921"|"827420"
+03/23/2006 00:00:00|"Miscellaneous notes"|"dissimilar"||"* Well drained Elkhart soils on summits and backslopes"|"1029921"|"827421"
+09/24/2012 00:00:00|"Edit notes"|"last updated"||"Updated HGS."|"1029921"|"827843"
+08/05/2013 00:00:00|"Miscellaneous notes"|"evaluation"|"attribute"|"Part of the Soil Data Join Recorrelation (SDJR) Initiative. Currently, this map unit is mapped in 42 counties in IL, 3 counties in Indiana, and 2 counties in Wisconsin, and has 13 data mapunits. It is yet to be determined if Vermillion County IL and the three counties in Indiana will use the new data mapunit that was reviewed and edited for this project.  The mapunits in the Illinois part of MLRA 105 will be included in this project.  The map units in this project will be consolidated to have consistent data population wherever the map unit was mapped. Map unit symbols and names will stay the same for this project, which includes 41 counties in Illinois, and 1 county in Wisconsin (Dane).  The new map unit and new data mapunit will meet national and MO11 standards.  The Official Series Description will be updated as a part of this process. 
+This project will be looking at 68A - Sable silty clay loam, 0 to 2 percent slopes. The map unit in this project is mapped in 41 counties in IL and 1 county in Wisconsin, and has 6 data mapunits. This SDJR project will consolidate the number of map units and data map units to one for the 42 counties.
+This new data mapunit, DMUID 700463, is being created for the Soil Data Join Recorrelation (SDJR) Initiative for the 68A - Sable silty clay loam, 0 to 2 percent slopes, map unit. This data mapunit is created from a copy of DMUID 155134.  
+Data mapunit population was conducted using lab data for the Sable series from the KSSL and UofIL characterization database, and pedon data entered into NASIS.  The data was downloaded, reviewed, and aggregated for data population. The data was filtered for the different horizons and then statistics performed to find average, min, and max for various properties.  These values were used to help populate the Sable data mapunit.  Data from the existing DMUs were also taken into consideration. The DMU passed all validations and requirements of National Bulletin 430-305, November 2013. 
+The new Data map unit was then reviewed for consistency by using a variety of interpretation reports.  Changes were made to the DMU as needed.
+Minor components were determined by evaluating what was listed as minor components in the published soil surveys.  The list was evaluated and the most common minor dissimilar components were selected.  Minor components that were not used in NASIS were recognized in a mapunit text note.
+
+"|"1030108"|"826864"
+12/19/2013 00:00:00|"Map unit description"|"map unit concept"||"Soils in this MLRA map unit formed in Peoria-aged loess.  The map units in this project are primarily on the Illinois till plain.  Some areas are underlain by Pre-Illinois till in western Illinois, some areas are unglaciated, and other areas are underlain by Wisconsin till in the eastern extent of this project.  The map units in this project are found in 41 Illinois counties and 1 Wisconsin county.  
+
+Included with these soils in mapping, are the following:
+undrained areas
+less clay in the surface soil and subsoil
+more sand in the lower subsoil and underlying material
+dark colored surface soil greater than 24 inches thick
+dark colored surface soil less than 10 inches thick
+less clay in the surface layer
+thinner subsoil
+thinner subsurface layer
+lighter colored subsurface layer
+less clay in the lower subsurface and upper subsoil
+carbonates at depths less than 40 inches
+thicker surface that contains less clay
+less clay in the surface and more clay in the subsoil
+more clay in the subsoil
+more sand in the underlying material and contains carbonates
+lighter colored surface 
+carbonates throughout
+more clay in the upper subsoil
+thinner and lighter colored subsurface layer
+silty overwash layer less than 20 inches thick
+more organic matter in the surface layer
+less clay in the underying material
+areas with slopes greater than 2 percent
+
+A future project will investigate loess thickness of Sable map units in MLRAs 95B, 108A and 108B.  The Sable map units in Dane Co. Wisconsin will be investigated for possible sandy substratum phases.
+
+There is a map unit join issue at the Ogle/Winnebago County boundary.  Winnebago Co. has 9068A joining 68A in Ogle Co.  A field investigation, will be needed to correct this issue.
+
+A future project will investigate the join issue between Jo Daviess Co. and Lafayette Co., based on surface texture differences.  This project will also investigate the impact of the ""driftless"" and glaciated landforms on the soil profile.
+
+
+"|"1030108"|"826865"
+12/18/2013 00:00:00|"Edit notes"|"built or copied from"||"Copied Ipava component data from DMU 638640, from the Ipava SDJR Project, and pasted into the Sable DMU.  This will be edited as a minor component in the Sable DMU.  RT 12-18-13"|"1030108"|"827581"
+12/20/2013 00:00:00|"Edit notes"|"last edited"||"Reviewed Sable component via QC Checklist.  Edited/added data per the checklist.  Ran horizon and component validations.  Calculated items required by the checklist.  Used KSSL data and Pedon data to adjust NASIS data where needed.  RT 12-20-13"|"1030108"|"827582"
+03/30/2015 00:00:00|"Map unit description"|"map unit concept"||"Soils in this MLRA map unit formed in Peoria-aged loess.  The map units in this project are primarily on the Illinois till plain.  Some areas are underlain by Pre-Illinois till in western Illinois, some areas are underlain by bedrock in northwestern Illinois, and other areas are underlain by Wisconsin till in the eastern extent of this project.  The map units in this project are found in 23 Illinois counties.  
+
+Included with these soils in mapping are areas that have:
+grayish subsurface layer
+more sand in lower part of subsoil
+less clay in the subsoil
+more sand throughout
+sandy loam and loam layers within a depth of 60 inches
+seasonal high water table at depths greater than 2 feet
+thinner dark surface soil
+carbonates at depths less than 40 inches
+thinner dark surface and subsurface layer
+grayish subsurface layer and more clay in the subsoil
+slopes greater than 2 percent and a thinner dark surface soil
+more clay in the subsoil
+slopes greater than 2 percent
+more clay in the surface layer
+more sand in the underlying material
+loess less than 5 feet thick
+
+A future project will include examination of the loess thickness in MLRA 108A, primarily in La Salle and
+McLean Counties.
+
+A future project will investigate the possible extent of the Muscatune-Buckhart complex into areas
+beyond La Salle County.
+
+A future project will collect full characterization data from sites in the 51A map unit, to substantiate the historical pedons many of which were only sampled for particle size and ph.
+
+"|"1385633"|"826844"
+03/26/2015 00:00:00|"Miscellaneous notes"|"evaluation"|"attribute"|"Part of the Soil Data Join Recorrelation (SDJR) Initiative. Currently, this map unit is mapped in 23 counties in IL, and has 2 data mapunits in MLRA's 95B, 105, 108A, 108B, 110, 114B, and 115C.  The map units in this project will be consolidated to have consistent data population wherever the map unit was mapped. Map unit symbols and names will stay the same for this project, which includes 23 counties in Illinois.  The new map unit and new data mapunit will meet national and MO11 standards.  The Official Series Description will be updated as a part of this process. 
+
+This project will be looking at 51A - Muscatune silt loam, 0 to 2 percent slopes. This SDJR project will consolidate the number of map units and data map units to one for the 23 counties in this project.   
+
+This new data mapunit, DMUID 713789, is being created for the Soil Data Join Recorrelation (SDJR) Initiative for the 51A - Muscatune silt loam, 0 to 2 percent slopes, map unit. This data mapunit is created from a copy of DMUID 142698.  
+Data mapunit population was conducted by using lab data for the Muscatine and Muscatune series from the KSSL and UofIL characterization database, and pedon data entered into NASIS.  The data was downloaded, reviewed, and aggregated for data population. The data was filtered for the different horizons and then statistics performed to find average, min, and max for various properties.  These values were used to help populate the Muscatune data mapunit.  Data from the existing DMUs was also taken into consideration. The DMU passed all validations and requirements of National Bulletin 430-305, November 2014. 
+
+The new Data map unit was then reviewed for consistency by using a variety of interpretation reports.  Changes were made to the DMU as needed.
+
+Minor components were determined by evaluating what was listed as minor components in the published soil surveys.  The list was evaluated and the most common minor dissimilar components were selected.  Minor components that were not used in NASIS were recognized in a mapunit text note.
+"|"1385633"|"826845"
+04/01/2015 00:00:00|"Edit notes"|"last edited"||"Edited data per QC guidelines.  Data based on lab data, pedon data, and older dmus.  NASIS calculations used as a guide for data population if not used as calculated.  RT 04-01-15"|"1385633"|"827575"
+09/22/2015 00:00:00|"Edit notes"|"last edited"||"The low sand and high silt contents on the 2Cg horizon were edited based on validation comments,  rock frags & percent passing sieves calculation was re-ran.  The AASHTO entries for the 2Cg horizon were edited.  The Drummer component now passes all the horizon validations.  These edits were made to the Drummer dmu where used as a major component, the 2Cg horizon was then copied and pasted into this dmu where Drummer is a minor component."|"1385633"|"827576"
+01/23/2006 00:00:00|"Miscellaneous notes"|"similar"||"* Soils that are underlain by till
+* Soils that have slopes of less than 5 percent or more than 10 percent
+* Soils that are slightly or severely eroded 
+* Soils where the outwash begins at a depth of less than 40 inches or more than 60 inches
+* Soils that are underlain by gravel"|"1386213"|"827014"
+10/18/2005 00:00:00|"Miscellaneous notes"|"MUD"|"Location"|"86IL-011-010 Location: Sec. 15, T.15N., R.7E."|"1386213"|"827015"
+03/22/2006 00:00:00|"Miscellaneous notes"|"dissimilar"||"* Somewhat poorly drained Elburn soils on summits and footslopes"|"1386213"|"827016"
+03/04/2004 00:00:00|"Correlation notes"|||"Approved 2/04.  Previously correlated 199C, C2, C3, and D3 for SS Report No. 91.  With this correlation the slope range is changed to 5 to 10 percent.  Taxadjunct to the series because of a thin mollic epipedon.  Classifies as Mollic Hapludalfs.  Map unit pedon is from Bureau County (86IL-011-010)."|"1386213"|"827017"
+12/15/2009 00:00:00|"Edit notes"|"last updated"||"Deleted 'ml' from the H2 and H3 horizons, per the NASIS Unified Validation.
+
+rf
+dec15, 2009"|"1386213"|"827679"
+12/07/2009 00:00:00|"Edit notes"|"last updated"||"- Ran LL and PI calculation.
+- Adjusted AASHTO and Unified values.
+- Re-ran water content calculation.
+- Re-ran AASHTO Group Index calculation. jh 11/09"|"1386213"|"827680"
+01/24/2006 00:00:00|"Miscellaneous notes"|"similar"||"* Soils where the control section contains more clay and less silt
+* Soils that are moderately eroded
+* Soils that have a seasonal high water table at a depth of less than 4 feet"|"1386836"|"827368"
+03/08/2004 00:00:00|"Correlation notes"|||"Approved 2/04.  Needed for perfect join with Marshall County.  TUD pedon is from Woodford County SS report 143."|"1386836"|"827369"
+11/23/2005 00:00:00|"Miscellaneous notes"|"MUD"|"location"|"TUD is from Woodford County SS report 143.  DMU 478,558"|"1386836"|"827370"
+03/23/2006 00:00:00|"Miscellaneous notes"|"dissimilar"||"* Somewhat poorly drained Arrowsmith soils on summits and footslopes"|"1386836"|"827371"
+01/24/2006 00:00:00|"Miscellaneous notes"|"similar"||"* Soils underlain by till or outwash
+* Soils that have slopes of more than 3 percent
+* Soils that have a thinner surface layer
+* Soils that have carbonates at a depth of less than 40 inches
+* Soils that have a seasonal high water table at a depth of more than 3.5 feet"|"1415639"|"827470"
+09/30/2004 00:00:00|"Correlation notes"|||"Approved 9/04.  Previously correlated as Muscatine, 41B for SS Report No. 91.  Determined to have slopes 0 - 3 percent and both swpd and mwd water tables.  Muscatune approved previously.  TUD pedon for Buckhart is from LaSalle County (04IL-099-026)."|"1415639"|"827471"
+11/23/2005 00:00:00|"Miscellaneous notes"|"MUD"|"location"|"Muscatune is from Warren County, 93IL-111-019 and Buckhart is from LaSalle County 04IL-099-026, McNabb quad 327 feet west and 2481 feet north of the SE corner of section 18, T32N R1E"|"1415639"|"827472"
+02/14/2001 00:00:00|"Edit notes"|||"The Osco component was incorrectly identified as being a major component.  This was corrected on 2/13/01."|"1415639"|"827854"
+09/24/2012 00:00:00|"Edit notes"|"last updated"||"Updated HGS."|"2650869"|"828990"

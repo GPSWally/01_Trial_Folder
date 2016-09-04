@@ -1,0 +1,4 @@
+"County or Parish"|"CA047"|"Merced"|609820|"14112"|"289193"
+"MLRA"|"15"|"Central California Coast Range"|229920|"14112"|"289194"
+"MLRA"|"17"|"Sacramento and San Joaquin Valleys"|379900|"14112"|"289195"
+"State or Territory"|"CA"|"California"|609820|"14112"|"289196"

@@ -1,0 +1,208 @@
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Eroded soils soil is a minor component."|"12126333"|"10629050"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Manter soil is a minor component."|"12126332"|"10629049"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Haxtun soil is a minor component."|"12126331"|"10629048"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Ascalon component makes up 75 percent of the map unit. Slopes are 0 to 3 percent. This component is on plains. The parent material consists of calcareous, old alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. There is no zone of water saturation within a depth of 72 inches. Organic matter content in the surface horizon is about 2 percent. This component is in the R072XY023CO Sandy Plains ecological site. Nonirrigated land capability classification is 2e. Irrigated land capability classification is 2e. This soil does not meet hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 8 percent.  "|"12126330"|"10629047"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Platner soil is a minor component."|"12126421"|"10629138"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aquic Haplustolls soil is a minor component."|"12126420"|"10629137"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Rago component makes up 85 percent of the map unit. Slopes are 0 to 2 percent. This component is on smooth, slightly concave plains. The parent material consists of loess. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. There is no zone of water saturation within a depth of 72 inches. Organic matter content in the surface horizon is about 3 percent. This component is in the R072XY001CO Loamy Plains ecological site. Nonirrigated land capability classification is 2e. Irrigated land capability classification is 2e. This soil does not meet hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 10 percent. There are no saline horizons within 30 inches of the soil surface. "|"12126419"|"10629136"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Rago soil is a minor component."|"12126462"|"10629200"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Rago soil is a minor component."|"12126461"|"10629199"
+09/09/2013 00:00:00|"Miscellaneous notes"|"Pedon locaton"||"This Tud Pedon is located approximately two miles into MLRA 72 from 67B."|"12126460"|"10629197"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Ascalon soil is a minor component."|"12126460"|"10629198"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Platner component makes up 85 percent of the map unit. Slopes are 0 to 3 percent. This component is on broad to narrow interfluves on plains. The parent material consists of mixed eolian deposits over tertiary aged alluvium derived from igneous, metamorphic and sedimentary rock. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately low.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. There is no zone of water saturation within a depth of 72 inches. Organic matter content in the surface horizon is about 2 percent. This component is in the R067BY002CO Loamy Plains ecological site. Nonirrigated land capability classification is 4s. Irrigated land capability classification is 3s. This soil does not meet hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 10 percent. There are no saline horizons within 30 inches of the soil surface. "|"12126459"|"10629196"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Eckley soil is a minor component."|"12126408"|"10629125"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Bayard soil is a minor component."|"12126407"|"10629124"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Manter component makes up 75 percent of the map unit. Slopes are 5 to 9 percent. This component is on smooth plains. The parent material consists of eolian sands. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is high.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. There is no zone of water saturation within a depth of 72 inches. Organic matter content in the surface horizon is about 2 percent. This component is in the R072XY023CO Sandy Plains ecological site. Nonirrigated land capability classification is 4e. Irrigated land capability classification is 4e. This soil does not meet hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 10 percent. There are no saline horizons within 30 inches of the soil surface. "|"12126406"|"10629123"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Julesburg soil is a minor component."|"12126405"|"10629122"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Ascalon soil is a minor component."|"12126404"|"10629121"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Manter component makes up 90 percent of the map unit. Slopes are 2 to 5 percent. This component is on smooth plains. The parent material consists of eolian sands. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is high.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. There is no zone of water saturation within a depth of 72 inches. Organic matter content in the surface horizon is about 2 percent. This component is in the R072XY023CO Sandy Plains ecological site. Nonirrigated land capability classification is 4e. Irrigated land capability classification is 3e. This soil does not meet hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 10 percent. There are no saline horizons within 30 inches of the soil surface. "|"12126403"|"10629120"
+08/17/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Manter soil is a minor component."|"12126468"|"10629207"
+08/17/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Ascalon, sandy substratum component makes up 90 percent of the map unit. Slopes are 3 to 5 percent. This component is on broad, flat interfluves, tablelands. The parent material consists of wind-reworked alluvium and/or calcareous sandy eolian deposits. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. There is no zone of water saturation within a depth of 72 inches. Organic matter content in the surface horizon is about 1 percent. This component is in the R072XA022KS Sandy (north) Draft (april 2010) (pe 16-20), Sandy Plains ecological site. Nonirrigated land capability classification is 4s. Irrigated land capability classification is 4e. This soil does not meet hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 5 percent. There are no saline horizons within 30 inches of the soil surface. "|"12126467"|"10629206"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Haxtun soil is a minor component."|"12126402"|"10629119"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Manter component makes up 80 percent of the map unit. Slopes are 0 to 3 percent. This component is on smooth plains. The parent material consists of eolian sands. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is high.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. There is no zone of water saturation within a depth of 72 inches. Organic matter content in the surface horizon is about 2 percent. This component is in the R072XY023CO Sandy Plains ecological site. Nonirrigated land capability classification is 4e. Irrigated land capability classification is 3e. This soil does not meet hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 10 percent. There are no saline horizons within 30 inches of the soil surface. "|"12126401"|"10629118"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Other soils soil is a minor component."|"12126389"|"10629106"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Colby soil is a minor component."|"12126388"|"10629105"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Aquic Haplustolls soil is a minor component."|"12126387"|"10629104"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Keith component makes up 30 percent of the map unit. Slopes are 0 to 3 percent. This component is on smooth plains. The parent material consists of loess. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. There is no zone of water saturation within a depth of 72 inches. Organic matter content in the surface horizon is about 2 percent. This component is in the R072XY001CO Loamy Plains ecological site. Nonirrigated land capability classification is 2e. Irrigated land capability classification is 2e. This soil does not meet hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 9 percent.  "|"12126386"|"10629103"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Kuma component makes up 55 percent of the map unit. Slopes are 0 to 3 percent. This component is on smooth plains. The parent material consists of loess. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. There is no zone of water saturation within a depth of 72 inches. Organic matter content in the surface horizon is about 3 percent. This component is in the R072XY001CO Loamy Plains ecological site. Nonirrigated land capability classification is 2c. Irrigated land capability classification is 2e. This soil does not meet hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 6 percent.  "|"12126385"|"10629102"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Dailey soil is a minor component."|"12126380"|"10629097"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Manter soil is a minor component."|"12126379"|"10629096"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Julesburg component makes up 60 percent of the map unit. Slopes are 3 to 7 percent. This component is on smooth plains. The parent material consists of eolian sands. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is high. Available water to a depth of 60 inches (or restricted depth) is low.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. There is no zone of water saturation within a depth of 72 inches. Organic matter content in the surface horizon is about 3 percent. This component is in the R072XY016CO Deep Sands ecological site. Nonirrigated land capability classification is 6e. Irrigated land capability classification is 4e. This soil does not meet hydric criteria.   "|"12126378"|"10629095"
+06/20/2014 00:00:00|"Edit notes"|"component pedon"||"The Ascalon Taxonomic Unit Description (Pedon ID 2014CO125901) in the April 1981 Yuma County, CO (CO125) soil survey manuscript, page 66, will be used as the representative component pedon because there are no Ascalon pedons located within the (2s7wf) mapunit extent. "|"12126447"|"10629179"
+07/31/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major components.  The Ascalon soil is a minor component."|"12126447"|"10629180"
+06/20/2014 00:00:00|"Edit notes"|"erodibility factors"||"The Ascalon component in the datamapunits being replaced during the Haxtun loamy sand, 0 to 3 percent slopes SDJR project do not have erodibility factors populated. 
+
+The Ascalon component in datamapunit 659246 was copied from datamapunit 659245, which supports SDJR version of Haxtun loamy sand, 0 to 3 percent slopes (2s7wd) in MLRAs 67B and 72. The T-factor, WEI/WEG, and Kw/Kf values in datamapunit 659246 were determined by the required national calculations.
+
+The Null values of the Ascalon components changed to the calculated values as listed below.
+
+The T-factor changed from Null to 5 tons/acre.
+
+The WEI/WEG changed from Null to 86/3.
+
+The Kw & Kf changed as indicated below.
+
+Surface horizon
+The Kw & Kf changed from Null to 0.17.
+
+Bt1 horizon
+The Kw & Kf changed from Null to 0.20.
+
+Bt2 horizon
+The Kw & Kf changed from Null to 0.20.
+
+Bk horizon
+The Kw & Kf changed from Null to 0.20.
+
+C horizon
+The Kw & Kf changed from Null to 0.15.
+"|"12126447"|"10629181"
+06/12/2014 00:00:00|"Edit notes"|"edits"||"The Ascalon component was copied from datamapunit 659245. The following edits were made. 
+
+1.	Component composition was changed from 0-6-10% to 0-7-10%
+2.	Changed the geomorphic description from interdunes on dune fields to footslopes of base slopes of sand sheets on tablelands
+3.	Changed the component slope shape surface morphology from linear/linear to concave up/linear across
+4.	Changed the 2C horizon bottom depths from 203 to 200cm
+5.	Changed the Ecological Site Description from Sandy Plains (R067BY024CO) to Sandy (North) Draft (April 2010) (PE 16-20) (R072XA022KS)
+6.	Changed the range productivity to the HCPC for the Sandy (North) Draft (April 2010) (PE 16-20) (R072XA022KS) Ecological Site Description
+
+"|"12126447"|"10629182"
+06/20/2014 00:00:00|"Edit notes"|"component pedon"||"The Loup Official Soil Description (OSD) from Brown County, Nebraska (Pedon ID 83NE017101), will be used as the representative component pedon because there are no Loup pedons or Taxonomic Unit Descriptions located within the (2s7wf) mapunit extent. 
+
+"|"12126446"|"10629175"
+06/20/2014 00:00:00|"Edit notes"|"edits"||"The Loup component was copied from datamapunit 657816, which supports the SDJR version of Els-Ipage complex, 0 to 3 percent slopes in MLRA 65. The following edits were made. 
+
+1.	Component composition was changed from 1-3-3% to 0-3-5%
+2.	Changed the elevation to match the major component
+3.	Changed the MAP, MAAT, and FFD to match the major component
+4.	Changed the slope gradient from 1-2-3 to 0-1-2% based on the slope gradient for the mapunit and the location of this component on the landscape
+5.	Changed the slope length USLE using the national calculation
+6.	Added a None-depositional erosion class
+7.	Changed the Cover kind 1 and 2 to crop cover/close grown crop to reflect the cropland focus of this mapunit
+8.	Changed the geomorphic description from interdune swales on sandhills to toeslopes of base slopes on swales on tablelands
+9.	Added high and low horizon depths for all diagnostic features in the component diagnostic features table
+10.	Changed the component aspect from 0-135-359 to 0-180-359
+11.	Added low and high horizon thicknesses for all horizons
+12.	Changed the A horizon to an Ap to reflect the cropland focus of this mapunit
+13.	Added silt fractions to all horizons from lab data statistics 
+14.	Changed the ACg horizon high OM content to 1.1% to allow for a mollic epipedon in this horizon
+15.	Changed the low and high pH CaCl2 for all horizons to fit the slightly acid to moderate acid reaction class ranges
+16.	Changed the local runoff class from very high to very low following guidance in Part 618.49 (430-VI-NSSH, 2005)
+17.	Changed the Ecological Site Description from Wet Subirrigated (R065XY023NE) to Subirrigated (North) Draft (April 2010) (PE 16-20) (R072XA032KS) because the Wet Subirrigated ESD is in MLRA 65
+18.	Changed the range productivity to the HCPC for the Subirrigated (North) Draft (April 2010) (PE 16-20) (R072XA032KS) Ecological Site Description
+19.	Removed plant species from the Existing Plants Table
+20.	Removed tree species from the Potential Windbreak Table
+
+"|"12126446"|"10629176"
+07/31/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major components.  The Loup soil is a minor component."|"12126446"|"10629177"
+06/20/2014 00:00:00|"Edit notes"|"erodibility factors"||"The Loup component was added to the new MLRA datamapunit to cover the 1230 Depression, 27 Pot Hole, and 9 Wet Spot spot symbols in the 2s7wf mapunit extent. There was not a Loup component in the datamapunits being replaced. 
+
+The Loup component in datamapunit 659246 was copied from datamapunit 657816, which supports SDJR version of Els-Ipage complex, 0 to 3 percent slopes (2s81h) in MLRA 65. The T-factor, WEI/WEG, and Kw/Kf values in datamapunit 659246 were determined by the required national calculations.
+
+The T-factor remained 5 tons/acre.
+
+The WEI/WEG remained 86/3.
+
+The Kw & Kf changed as indicated below.
+
+Surface horizon
+The Kw & Kf remained 0.20.
+
+ACg horizon
+The Kw & Kf remained 0.02.
+
+Cg horizon
+The Kw & Kf remained 0.02.
+
+"|"12126446"|"10629178"
+06/17/2014 00:00:00|"Edit notes"|"component pedon"||"The Haxtun Taxonomic Unit Description (Pedon ID 1976CO125013TUD) in the April 1981 Yuma County, CO (CO125) soil survey manuscript, page 70, will be used as the representative component pedon because there are no Haxtun pedons located within the (2s7wf) mapunit extent. 
+
+"|"12126445"|"10629171"
+07/31/2014 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Haxtun component makes up 90 percent of the map unit. Slopes are 0 to 3 percent. This component is on sand sheets on tablelands. The parent material consists of eolian deposits over alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is moderate.  Shrink-swell potential is low. This soil is not flooded. It is not ponded. There is no zone of water saturation within a depth of 72 inches. Organic matter content in the surface horizon is about 3 percent. This component is in the R072XA022KS Sandy (north) Draft (april 2010) (pe 16-20) ecological site. Nonirrigated land capability classification is 3c. Irrigated land capability classification is 2e. This soil does not meet hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 9 percent. There are no saline horizons within 30 inches of the soil surface. "|"12126445"|"10629172"
+06/20/2014 00:00:00|"Edit notes"|"edits"||"The Haxtun component was copied from datamapunit 67869. The following edits were made. 
+
+1.	Changed the MAP and FFD values using 30-year NOAA data (1981-2010), for sites in northern MLRA 72
+2.	Changed the elevation range based on the spatial extent of the polygons that comprise this mapunit
+3.	Added USLE slope length using the suggested national calculation
+4.	Added cover kind 1 and cover kind 2 to represent the crop cover focus of this mapunit
+5.	Added a None- deposition erosion class 
+6.	Changed parent material from alluvium and/or mixed eolian deposits over buried soil to eolian deposits over alluvium
+7.	Changed the irrigated LCC from 3e to 2e as it is in the mapunit concept
+8.	Changed the geographic description from upland swales and sandhill valleys to sand sheets on tablelands following the MLRA 72 geographic description scheme and a trip through the mapunit extent
+9.	Added mollic epipedon, argillic horizon, free carbonates, and lithologic discontinuity to the Diagnostic Features Table based on the component description as populated
+10.	Added a pedon to the component pedon table (see component pedon text note)
+11.	Changed the component aspect from 39-141-243 to 0-180-359
+12.	Changed the H1 horizon designation to an Ap
+13.	Changed the H2 horizon designation to Bt1
+14.	Changed the H3 horizon designation to a 2Bt2 
+15.	Changed the H4 horizon designation to a 2C 
+16.	Changed the Ap horizon RV bottom depth from 18 to 22cm based on the depths described in the soil survey manuscripts
+17.	Changed the Bt1 horizon RV bottom depth from 51 to 52cm based on the depths described in the manuscripts
+18.	Changed the 2Bt2 horizon RV bottom depth from 84 to 88cm based on the depths described in the soil survey manuscripts
+19.	Changed the 2C horizon RV bottom depth from 152 to 200cm 
+20.	Added low and high horizon depths for all horizons
+21.	Added horizon thickness for all horizons
+22.	Changed the Ap horizon high total clay content from 19% to 18% based on the statistics from the datamapunits being replaced
+23.	Changed the Bt1 horizon total clay content from 15-18.5-30% to 15-19-28% based on the statistics from the datamapunits being replaced
+24.	Changed the 2Bt2 horizon total clay content from 20-27.5-35% to 18-28-34% based on the statistics from the datamapunits being replaced
+25.	Changed the 2C horizon total clay content from 8-15.5-23% to 13-19-25% based on the statistics from the datamapunits being replaced
+26.	Changed the Ap horizon RV total sand content from 67.4% to 68% so it was a whole number
+27.	Changed the Bt1 horizon RV total sand content from 63.1% to 63% so it was a whole number 
+28.	Changed the 2Bt2 horizon RV total sand content from 55.1% to 39% based on the statistics from the datamapunits being replaced
+29.	Changed the 2C horizon RV total sand content from 65.6% to 50% based on the statistics from the datamapunits being replaced
+30.	Added low and high total sand content values to all horizons
+31.	Added calcium carbonate clay for all horizons based on the calcium carbonate content described in the mapunit concept
+32.	Added low and high total silt content values to all horizons
+33.	Added fine, medium, and coarse gravel content to the 2Bt2 and 2C horizons based on the statistics from the datamapunits being replaced
+34.	Changed the Ap, Bt1, and 2Bt2 horizons low organic matter content to 1.1% to support the mollic epipedon described in the mapunit concept
+35.	Changed the Ap horizon RV organic matter content from 2.5 to 2.8% based on the statistics from the datamapunits being replaced
+36.	Changed the Bt1 horizon RV organic matter content from 2 to 1.8% based on the statistics from the datamapunits being replaced
+37.	Changed the 2C horizon high organic matter content to 0.75% based on the statistics from the datamapunits being replaced
+38.	Added low and high sand fractions for all horizons
+39.	Added pH calcium chloride to all horizons following SSR5 guidance
+40.	Changed the 2Bt2 horizon RV CaCO3 content from 5 to 4%
+41.	Changed the 2C horizon high CaCO3 content from 15 to 14% to exclude a calcic horizon 
+42.	Changed the Ksat value for the 2C horizons to apply the MLRA 72 Ksat scheme, which based on the representative texture class 
+43.	Changed the Ap horizon structure group from weak fine granular structure, and weak coarse granular structure to weak fine granular structure based on the soil survey manuscripts
+44.	Added horizon structure to the Bt1, 2Bt2, and 2C horizons
+45.	Changed the CEC & ECEC for all horizons using the suggested national calculation
+46.	Changed the LEP values using the suggested national calculation
+47.	Changed the oven-dry bulk density values for all horizon using the suggested national calculation
+48.	Added extractable acidity to all horizons using the suggested national calculation
+49.	Changed the LL & PI values for all horizon using the suggested national calculation
+50.	Changed the Kw & Kf values for the Ap, Bt1, and 2Bt2 horizons using the required national calculation. Changes are documented in the erodibility factor note of the Keith components Component Text table.
+51.	Added sum of bases following SSR5 guidance 
+52.	Changed AWC for all horizons following SSR5 guidance
+53.	Removed all but 1 RV horizon AASHTO class for all horizons
+54.	Removed all but 1 RV horizon Unified class for all horizons
+55.	Changed the AASHTO Group Index (AGI) for the Bt1, 2Bt2, and 2C horizons using the required national calculation
+56.	Changed the HSG from B to C using the required national calculation
+57.	Changed the steel corrosion from high to moderate using the required national calculation
+58.	Changed the Ecological Site from Sandy Plains (R072XY023CO) to Sandy (North) Draft (April 2010) (PE 16-20) (R072XA022KS) because the Sandy Plains ESD is no longer an option
+59.	Changed range production to match the historic climax plant community values in the Sandy (North) Draft (April 2010) (PE 16-20) (R072XA022KS) Ecological Site Description
+60.	Added total subsidence (0-0-0)
+61.	Added plants to the existing plants table
+62.	Added tree species to the component potential wind break table
+63.	Added tree species to the component tree to manage table
+"|"12126445"|"10629173"
+06/17/2014 00:00:00|"Edit notes"|"erodibility factors"||"The required national calculation did not change the T-factor.
+
+The required national calculation did not change the WEI/WEG.
+
+The required national calculation changed the Kw & Kf, as indicated below.
+
+Surface horizon
+The Kw & Kf remains 0.15.
+
+Bt1 horizon
+The Kw & Kf changed from 0.17 to 0.24.
+
+2Bt2 horizon
+The Kw & Kf changed from 0.20 to 0.32.
+
+2C horizon
+The Kw & Kf remains to 0.32.
+"|"12126445"|"10629174"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Paoli soil is a minor component."|"12126329"|"10629046"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"Generated brief soil descriptions are created for major soil components.  The Haxtun soil is a minor component."|"12126328"|"10629045"
+09/10/2015 00:00:00|"Nontechnical description"|"GENSOIL"|"generated"|"The Albinas component makes up 90 percent of the map unit. Slopes are 0 to 2 percent. This component is on stream terraces, flood plains. The parent material consists of recent, mixed source alluvium. Depth to a root restrictive layer is greater than 60 inches. The natural drainage class is well drained.  Water movement in the most restrictive layer is moderately high.  Available water to a depth of 60 inches (or restricted depth) is high.  Shrink-swell potential is low. This soil is occasionally flooded. It is not ponded. There is no zone of water saturation within a depth of 72 inches. Organic matter content in the surface horizon is about 5 percent. This component is in the R072XY001CO Loamy Plains ecological site. Nonirrigated land capability classification is 2w. Irrigated land capability classification is 2w. This soil does not meet hydric criteria. The calcium carbonate equivalent within 40 inches, typically, does not exceed 10 percent.  "|"12126327"|"10629044"

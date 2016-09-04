@@ -56,8 +56,8 @@ var kmlDocumentName = tokml(geojsonObject, {
 
 app.get("/shapefile", function(req, res){
 	console.log("creating a geoJSON");
-	shp("soilmu_a_aoi").then(function(geojson){
-        var geoJSONfn = "./soilmu_a_aoi.json";
+	shp("./userData/soilmu_a_aoi").then(function(geojson){
+        var geoJSONfn = "./userData/soilmu_a_aoi.json";
         fs.writeFile(geoJSONfn, JSON.stringify(geojson), function(err){
         	if (err){
         		res.send("error didn't write file");

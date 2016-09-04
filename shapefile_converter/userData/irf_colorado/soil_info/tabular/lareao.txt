@@ -1,0 +1,3 @@
+"County or Parish"|"CO125"|"Yuma"|1515800|"10658"|"287484"
+"MLRA"|"72"|"Central High Tableland"|1515800|"10658"|"287485"
+"State or Territory"|"CO"|"Colorado"|1515800|"10658"|"287486"

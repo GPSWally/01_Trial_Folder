@@ -1,0 +1,8 @@
+"weak medium subangular blocky structure"|"Yes"|"34905326"|"16000546"
+"weak coarse subangular blocky structure, and weak medium subangular blocky structure"|"Yes"|"34905325"|"16000545"
+"moderate medium subangular blocky structure, and moderate coarse subangular blocky structure"|"Yes"|"34905324"|"16000544"
+"weak coarse subangular blocky structure, and weak medium subangular blocky structure"|"Yes"|"34905320"|"16000540"
+"moderate coarse subangular blocky structure, and moderate medium subangular blocky structure"|"Yes"|"34905319"|"16000539"
+"structureless massive structure, and weak medium subangular blocky structure"|"Yes"|"34905287"|"16000511"
+"moderate medium subangular blocky structure, and strong medium angular blocky structure"|"Yes"|"34905286"|"16000510"
+"strong fine granular structure, and strong medium granular structure"|"Yes"|"34905285"|"16000509"

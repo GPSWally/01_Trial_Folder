@@ -1,0 +1,7 @@
+"Sheet erosion"|"Yes"|"12574737"|"482338"
+"Sheet erosion"|"Yes"|"12574714"|"482333"
+"Sheet erosion"|"Yes"|"12574718"|"482334"
+"Sheet erosion"|"Yes"|"12574742"|"482341"
+"Sheet erosion"|"Yes"|"12574782"|"482342"
+"Sheet erosion"|"Yes"|"12574720"|"482336"
+"Rill erosion"|"No "|"12574720"|"482337"

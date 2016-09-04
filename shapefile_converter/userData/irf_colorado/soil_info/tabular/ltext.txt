@@ -1,0 +1,33 @@
+06/30/2014 00:00:00|"Correlation notes"|"amendment"|"FY 2014"|"FY 2014 Amendment to the Classification and Correlation of the Soils of Yuma County, Colorado October 2014
+U.S. Department of Agriculture, Natural Resources Conservation Service, Central Great Plains MLRA Regional Office Denver, Colorado
+________________________________ Phyllis A. Philipps	         State Conservationist	  Date:_____________
+________________________________ Cleveland E. Watts  	 MLRA - 05  Leader        Date:______________
+
+The U.S. Department of Agriculture (USDA) prohibits discrimination against its customers, employees and applicants for employment on the bases of race, color, national origin, age, disability, sex, gender identity, religion, reprisal, and where applicable, political beliefs, marital status, familial or parental status, sexual orientation, or all or part of an individuals income is derived from any public assistance program, or protected genetic information in employment or in any program or activity conducted or funded by the Department.  (Not all prohibited bases apply to all programs and/or employment activities.)
+
+FY 2014 Amendment to Classification and Correlation of the Soils of Yuma County, Colorado (CO125)
+Introduction
+This amendment was prepared during September 2014 in Salina, Kansas by John Warner, Soil Data Quality Specialist, Central Great Plains MLRA Regional Office.  This correlation updates the soil survey legend of the Yuma County Soil Survey, issued in April 1981. 
+
+As a result of the Soil Data Join Re-correlation (SDJR) initiative, the following mapunits have been changed as indicated.
+
+
+18 Haxtun loamy sand (35xg) changed to 18 Haxtun loamy sand, 0 to 3 percent slopes (2s7wd)
+19 Haxtun sandy loam (35xh) changed to 19 Haxtun sandy loam, 0 to 3 percent slopes (2s7wf)"|"10658"|"47645"
+07/02/2015 00:00:00|"Correlation notes"|"amendment"|"FY 2015"|"FY 2015 Amendment to the Classification and Correlation of the Soils of Yuma County, Colorado October 2015
+U.S. Department of Agriculture, Natural Resources Conservation Service, Central Great Plains MLRA Regional Office Denver, Colorado
+________________________________ Phyllis A. Philipps	         State Conservationist	  Date:_____________
+________________________________ Cleveland E. Watts  	 MLRA - 05  Leader        Date:______________
+
+The U.S. Department of Agriculture (USDA) prohibits discrimination against its customers, employees and applicants for employment on the bases of race, color, national origin, age, disability, sex, gender identity, religion, reprisal, and where applicable, political beliefs, marital status, familial or parental status, sexual orientation, or all or part of an individuals income is derived from any public assistance program, or protected genetic information in employment or in any program or activity conducted or funded by the Department.  (Not all prohibited bases apply to all programs and/or employment activities.)
+
+FY 2015 Amendment to Classification and Correlation of the Soils of Yuma County, Colorado (CO125)
+Introduction
+This amendment was prepared during September 2015 in Salina, Kansas by John Warner, Soil Data Quality Specialist, Central Great Plains MLRA Regional Office.  This correlation updates the soil survey legend of the Yuma County Soil Survey, issued in April 1981. 
+
+As a result of the Soil Data Join Re-correlation (SDJR) initiative, the following mapunits have been changed as indicated.
+
+Richfield silt loam (40) (35y8) changed to Richfield silt loam, 0 to 2 percent slopes (40) (2v9fw)
+Colby silt loam, 6 to 15 percent slopes (11) (35x7) changed to Colby silt loam, 6 to 15 percent slopes (11) (2w5d4) 
+Colby silt loam, 3 to 6 percent slopes (10) (35x6) changed to Colby silt loam, 3 to 6 percent slopes (10) (2v9ft)
+"|"10658"|"47646"

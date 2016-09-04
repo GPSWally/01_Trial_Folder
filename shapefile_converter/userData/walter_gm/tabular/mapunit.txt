@@ -1,0 +1,7 @@
+"154A"|"Flanagan silt loam, 0 to 2 percent slopes"|"Consociation"||12362|||||||"All areas are prime farmland"|||||"Order 2"||||||"11359"|"263390"
+"198A"|"Elburn silt loam, 0 to 2 percent slopes"|"Consociation"||14731|||||||"All areas are prime farmland"|||||"Order 2"||||||"11359"|"263404"
+"171B"|"Catlin silt loam, 2 to 5 percent slopes"|"Consociation"||10278|||||||"All areas are prime farmland"|||||"Order 2"||||||"11359"|"1029926"
+"152A"|"Drummer silty clay loam, 0 to 2 percent slopes"|"Consociation"||55131|||||||"Prime farmland if drained"|||||"Order 2"||||||"11359"|"1029931"
+"356A"|"Elpaso silty clay loam, 0 to 2 percent slopes"|"Consociation"||25304|||||||"Prime farmland if drained"|||||"Order 2"||||||"11359"|"1029933"
+"679B"|"Blackberry silt loam, 2 to 5 percent slopes"|"Consociation"||12751|||||||"All areas are prime farmland"|||||"Order 2"||||||"11359"|"1386845"
+"818A"|"Flanagan-Catlin silt loams, 0 to 3 percent slopes"|"Complex"||35029|||||||"All areas are prime farmland"|||||"Order 2"||||||"11359"|"1416056"
